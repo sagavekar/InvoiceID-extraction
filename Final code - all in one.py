@@ -1,3 +1,7 @@
+""" We are saving invoicedata of each file in 'data' varible and then saving in pandas dataframe using df = pd.DataFrame(data).
+    This may cause issue large dataset where we may reach max limit of python list dictionary varaible.
+    So keep this in mind and bring some solution on this in next versions !
+"""
 import os
 import xml.etree.ElementTree as ET
 import pandas as pd
