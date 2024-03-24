@@ -96,7 +96,7 @@ def getcXML():
                                 "invoiceID": invoiceID,
                                 "orderID" : orderID,
                                 "invoiceDate": invoiceDate,
-                                "invoiceFileName": filename,
+                                "invoiceFileName": file_path,
                                 "date": date_str,
                             }
                         )
@@ -168,7 +168,7 @@ def getEDI():
                                                 data.append(
                                                     {
                                                         "Invoice or CM Number": invoice_number,
-                                                        "File Name": filename,
+                                                        "File Name": file_path,
                                                         "Date": f"{year_folder}-{month_folder}-{day_folder}",
                                                     }
                                                 )
@@ -306,6 +306,7 @@ def getCSV():
                             "ServiceStartDate": ServiceStartDate,
                             "ServiceEndDate": ServiceEndDate,
                             "CreationDate": date_str,
+                            "File name" : file_path
                         }
                     )
                     counter = counter + 1
