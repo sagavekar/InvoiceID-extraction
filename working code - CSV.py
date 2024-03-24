@@ -24,7 +24,6 @@ def directory_properties(base_path):
 
 
 file_count = directory_properties(base_path)
-
 data = []
 
 # Iterate through year folders
@@ -49,13 +48,12 @@ for year_folder in os.listdir(base_path):
                 # if filename.endswith((".txt", ".xml")):
                 file_path = os.path.join(day_path, filename)
 
-                
                 try:
                     tree = ET.parse(file_path)
                     root = tree.getroot()
                     table1 = root.find("Table1")
                     table2 = root.find("Table2")
-                
+
                     try:
                         InvoiceNumber = table1.find("InvoiceNumber").text
                     except (KeyError, AttributeError):
@@ -110,10 +108,10 @@ for year_folder in os.listdir(base_path):
                         "ItemDescription": ItemDescription,
                         "Quantity": Quantity,
                         "UnitPrice": UnitPrice,
-                        "Amount" : Amount,
+                        "Amount": Amount,
                         "ServiceStartDate": ServiceStartDate,
                         "ServiceEndDate": ServiceEndDate,
-                        "CreationDate" : date_str
+                        "CreationDate": date_str,
                     }
                 )
                 counter = counter + 1
@@ -124,6 +122,7 @@ df = pd.DataFrame(data)
 print(df.head())
 client_name = input("What is the client name?: ")
 df.to_excel(f"{client_name}_invoice_data.xlsx", index=False)
+os.startfile(f"{client_name}_invoice_data.xlsx")
 print("data saved, please check parent folder !")
 
 # when any key is pressed it will jump to sys.exit()
