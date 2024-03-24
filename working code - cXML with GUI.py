@@ -6,7 +6,6 @@ import tkinter as tk
 from tkinter import filedialog
 
 
-
 def getcXML():
     base_path = folder_entry.get()  # Get folder path from entry field
     client_name = client_entry.get()  # Get client name from entry field
