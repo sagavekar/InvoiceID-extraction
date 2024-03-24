@@ -54,7 +54,8 @@ for year_folder in os.listdir(base_path):
                     tree = ET.parse(file_path)
                     root = tree.getroot()
                     table1 = root.find("Table1")
-                    
+                    table2 = root.find("Table2")
+                
                     try:
                         InvoiceNumber = table1.find("InvoiceNumber").text
                     except (KeyError, AttributeError):
@@ -81,6 +82,11 @@ for year_folder in os.listdir(base_path):
                         UnitPrice = None
 
                     try:
+                        Amount = table2.find("Amount").text
+                    except (KeyError, AttributeError):
+                        Amount = None
+
+                    try:
                         ServiceStartDate = table1.find("ServiceStartDate").text
                     except (KeyError, AttributeError):
                         ServiceStartDate = None
@@ -104,8 +110,10 @@ for year_folder in os.listdir(base_path):
                         "ItemDescription": ItemDescription,
                         "Quantity": Quantity,
                         "UnitPrice": UnitPrice,
+                        "Amount" : Amount,
                         "ServiceStartDate": ServiceStartDate,
                         "ServiceEndDate": ServiceEndDate,
+                        "CreationDate" : date_str
                     }
                 )
                 counter = counter + 1
