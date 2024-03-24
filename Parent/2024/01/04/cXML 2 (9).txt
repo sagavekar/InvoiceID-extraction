@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cXML version="1.1.008" payloadID="0.15220160426072655072655@staples.com" timestamp="2016-04-26T08:26:55-04:00">
+  <Header>
+    <From>
+      <Credential domain="DUNS">
+        <Identity>STAPLESADVT</Identity>
+      </Credential>
+    </From>
+    <To>
+      <Credential domain="">
+        <Identity>ACSSMRT-T</Identity>
+      </Credential>
+    </To>
+    <Sender>
+      <Credential domain="DUNS">
+        <Identity>STAPLESADVT</Identity>
+        <SharedSecret>staples</SharedSecret>
+      </Credential>
+      <UserAgent>CatalogManager</UserAgent>
+    </Sender>
+  </Header>
+  <Request>
+    <InvoiceDetailRequest>
+      <InvoiceDetailRequestHeader invoiceID="3004890227" purpose="standard" operation="new" invoiceDate="2016-04-26T07:26:55-04:00">
+        <InvoiceDetailHeaderIndicator />
+        <InvoiceDetailLineIndicator isTaxInLine="yes" isShippingInLine="yes" isAccountingInLine="yes" />
+        <InvoicePartner>
+          <Contact role="remitTo" addressID="">
+            <Name xml:lang="en">Staples Business Advantage Dept DAL</Name>
+            <PostalAddress>
+              <Street>P.O. Box 83689</Street>
+              <City>Chicago</City>
+              <State>IL</State>
+              <PostalCode>60696</PostalCode>
+              <Country isoCountryCode="US">United States</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoicePartner>
+          <Contact role="billTo">
+            <Name xml:lang="en">AMERICAN CANCER SOCIETY GEP PO</Name>
+            <PostalAddress>
+              <Street>8400 SILVER CROSSING</Street>
+              <City>OKLAHOMA CITY</City>
+              <State>OK</State>
+              <PostalCode>73132</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoicePartner>
+          <Contact role="from">
+            <Name xml:lang="en">Staples Inc.</Name>
+            <PostalAddress>
+              <Street>500 Staples Dr</Street>
+              <City>Framingham</City>
+              <State>MA</State>
+              <PostalCode>01702</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoicePartner>
+          <Contact role="shipTo" addressID="X00678">
+            <Name xml:lang="en">A WOMAN'S PLACE</Name>
+            <PostalAddress>
+              <Street>1727 SHAWANO AV ESTE 101</Street>
+              <City>GREEN BAY</City>
+              <State>WI</State>
+              <PostalCode>54303</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoiceDetailPaymentTerm payInNumberOfDays="030" percentageRate="0.0" />
+      </InvoiceDetailRequestHeader>
+      <InvoiceDetailOrder>
+        <InvoiceDetailOrderInfo>
+          <OrderIDInfo orderID="PO03:16-000354" />
+        </InvoiceDetailOrderInfo>
+        <InvoiceDetailItem invoiceLineNumber="1" quantity="0000005">
+          <UnitOfMeasure>CT</UnitOfMeasure>
+          <UnitPrice>
+            <Money currency="USD">50.00</Money>
+          </UnitPrice>
+          <InvoiceDetailItemReference lineNumber="00001">
+            <ItemID>
+              <SupplierPartID>135848</SupplierPartID>
+            </ItemID>
+            <Description xml:lang="en">STAPLES COPY PAPER, LETTER-SIZ</Description>
+          </InvoiceDetailItemReference>
+          <SubtotalAmount>
+            <Money currency="USD">250.0</Money>
+          </SubtotalAmount>
+          <Tax>
+            <Money currency="USD">0.00</Money>
+            <Description xml:lang="en">Total Item Tax</Description>
+            <TaxDetail purpose="Local Sales Tax" category="sales" percentageRate="0.0">
+              <TaxableAmount>
+                <Money currency="USD">250.00</Money>
+              </TaxableAmount>
+              <TaxAmount>
+                <Money currency="USD">0.00</Money>
+              </TaxAmount>
+              <TaxLocation xml:lang="en">WI</TaxLocation>
+            </TaxDetail>
+          </Tax>
+          <InvoiceDetailLineShipping>
+            <InvoiceDetailShipping>
+              <Contact role="shipFrom" addressID="SPLS">
+                <Name xml:lang="en">Staples Inc.</Name>
+                <PostalAddress>
+                  <Street>500 Staples Dr</Street>
+                  <City>Framingham</City>
+                  <State>MA</State>
+                  <PostalCode>01702</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+              <Contact role="shipTo" addressID="X00678">
+                <Name xml:lang="en-US">A WOMAN'S PLACE</Name>
+                <PostalAddress>
+                  <DeliverTo>ACS SET</DeliverTo>
+                  <Street>1727 SHAWANO AV ESTE 101</Street>
+                  <City>GREEN BAY</City>
+                  <State>WI</State>
+                  <PostalCode>54303</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+            </InvoiceDetailShipping>
+            <Money currency="USD">0.0</Money>
+          </InvoiceDetailLineShipping>
+          <GrossAmount>
+            <Money currency="USD">250.0</Money>
+          </GrossAmount>
+          <InvoiceDetailDiscount percentageRate="0.0">
+            <Money currency="USD">0.0</Money>
+          </InvoiceDetailDiscount>
+          <NetAmount>
+            <Money currency="USD">250.0</Money>
+          </NetAmount>
+          <Distribution>
+            <Accounting name="Buyer assigned accounting code ">
+              <AccountingSegment id="PO03:16-000354">
+                <Name xml:lang="en">Trade</Name>
+                <Description xml:lang="en">Budget Center</Description>
+              </AccountingSegment>
+            </Accounting>
+            <Charge>
+              <Money currency="USD">250.0</Money>
+            </Charge>
+          </Distribution>
+        </InvoiceDetailItem>
+      </InvoiceDetailOrder>
+      <InvoiceDetailSummary>
+        <SubtotalAmount>
+          <Money currency="USD">250.00</Money>
+        </SubtotalAmount>
+        <Tax>
+          <Money currency="USD">0.00</Money>
+          <Description xml:lang="en">Total Tax Invoice</Description>
+          <TaxDetail purpose="Local Sales Tax" category="Sales" percentageRate="0.0">
+            <TaxableAmount>
+              <Money currency="USD">250.00</Money>
+            </TaxableAmount>
+            <TaxAmount>
+              <Money currency="USD">0.00</Money>
+            </TaxAmount>
+            <TaxLocation xml:lang="en">WI</TaxLocation>
+          </TaxDetail>
+        </Tax>
+        <ShippingAmount>
+          <Money currency="USD">0.0</Money>
+        </ShippingAmount>
+        <GrossAmount>
+          <Money currency="USD">250.00</Money>
+        </GrossAmount>
+        <NetAmount>
+          <Money currency="USD">250.00</Money>
+        </NetAmount>
+        <DueAmount>
+          <Money currency="USD">250.00</Money>
+        </DueAmount>
+      </InvoiceDetailSummary>
+    </InvoiceDetailRequest>
+  </Request>
+</cXML>

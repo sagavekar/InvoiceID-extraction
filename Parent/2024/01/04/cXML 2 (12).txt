@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cXML version="1.2.014" xml:lang="en-US" timestamp="2016-04-15T12:59:33-04:00" payloadID="GEPT000502_to_835433830T.3467.1724657503355@duplionline.com">
+  <Header>
+    <From>
+      <Credential domain="DUNS">
+        <Identity>200200200</Identity>
+      </Credential>
+    </From>
+    <To>
+      <Credential domain="DUNS">
+        <Identity>835433830T</Identity>
+      </Credential>
+    </To>
+    <Sender>
+      <Credential domain="NetworkID">
+        <Identity>107741050</Identity>
+        <SharedSecret>123dupli</SharedSecret>
+      </Credential>
+      <UserAgent>dolXML</UserAgent>
+    </Sender>
+  </Header>
+  <Request deploymentMode="test">
+    <InvoiceDetailRequest>
+      <InvoiceDetailRequestHeader invoiceID="T000502T1718" purpose="standard" operation="new" invoiceDate="2016-04-15T12:59:33-04:00">
+        <InvoiceDetailHeaderIndicator />
+        <InvoiceDetailLineIndicator isAccountingInLine="yes" isShippingInLine="yes" />
+      </InvoiceDetailRequestHeader>
+      <InvoiceDetailOrder>
+        <InvoiceDetailOrderInfo>
+          <OrderReference orderID="PO04:16-000502">
+            <DocumentReference payloadID="635954693611037544.7f53d76e40304a66b56a74df266f518b@GEPINTERFACEUAT.gep.com" />
+          </OrderReference>
+        </InvoiceDetailOrderInfo>
+        <InvoiceDetailItem invoiceLineNumber="1" quantity="20000">
+          <UnitOfMeasure>LO</UnitOfMeasure>
+          <UnitPrice>
+            <Money currency="USD">5211.0000</Money>
+          </UnitPrice>
+          <InvoiceDetailItemReference lineNumber="1">
+            <ItemID>
+              <SupplierPartID>402388-542399</SupplierPartID>
+            </ItemID>
+            <Description xml:lang="en-US">American Cancer Society Monarch Envelope</Description>
+          </InvoiceDetailItemReference>
+          <SubtotalAmount>
+            <Money currency="USD">5211.00</Money>
+          </SubtotalAmount>
+          <InvoiceDetailLineShipping>
+            <InvoiceDetailShipping>
+              <Contact role="shipFrom">
+                <Name xml:lang="en">Shipping</Name>
+                <PostalAddress>
+                  <Street>6761 Thompson Road</Street>
+                  <City>Syracuse</City>
+                  <State>NY</State>
+                  <PostalCode>132011</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+                <Phone>
+                  <TelephoneNumber>
+                    <CountryCode isoCountryCode="US">1</CountryCode>
+                    <AreaOrCityCode>315</AreaOrCityCode>
+                    <Number>234-7294</Number>
+                  </TelephoneNumber>
+                </Phone>
+              </Contact>
+              <Contact role="shipTo">
+                <Name xml:lang="en">ACS SET</Name>
+                <PostalAddress>
+                  <Street>ACS-GA-National Home Office</Street>
+                  <City>Atlanta</City>
+                  <State>GA</State>
+                  <PostalCode>30303</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+            </InvoiceDetailShipping>
+            <Money currency="USD">19.95</Money>
+          </InvoiceDetailLineShipping>
+        </InvoiceDetailItem>
+      </InvoiceDetailOrder>
+      <InvoiceDetailSummary>
+        <SubtotalAmount>
+          <Money currency="USD">5211.00</Money>
+        </SubtotalAmount>
+        <Tax>
+          <Money currency="USD">0.00</Money>
+          <Description xml:lang="en-US">Tax Summary</Description>
+        </Tax>
+        <ShippingAmount>
+          <Money currency="USD">19.95</Money>
+        </ShippingAmount>
+        <GrossAmount>
+          <Money currency="USD">5230.95</Money>
+        </GrossAmount>
+        <NetAmount>
+          <Money currency="USD">5230.95</Money>
+        </NetAmount>
+        <DueAmount>
+          <Money currency="USD">5230.95</Money>
+        </DueAmount>
+      </InvoiceDetailSummary>
+    </InvoiceDetailRequest>
+  </Request>
+</cXML>

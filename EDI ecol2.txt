@@ -1,0 +1,1502 @@
+ISA*00*          *00*          *12*3124236001     *ZZ*ECOLABEDIP     *240229*1309*U*00401*000005026*0*P*>~
+GS*IN*3124236001*ECOLABEDIP*20240229*1309*5026*X*004010~
+ST*810*0001~
+BIG*20240228*SINV02504003**MBP20231200437708***DI~
+CUR*BY*USD~
+N1*ST*Tamara Benedetto~
+N2*Tamara Benedetto~
+N3*21758 Meridian lane~
+N4*Novi*MI*48375*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*2*120*EA*6.97****VS*EC00003017~
+CUR*BY*USD~
+PID*F****Tonca 11-F~
+REF*FJ*1~
+TDS*93902~
+TXI*TX*50.18~
+SAC*C*D500***5244**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0001~
+ST*810*0002~
+BIG*20240228*SINV02504004**MBP20240100443707***DI~
+CUR*BY*USD~
+N1*ST*Erin Mount~
+N2*Erin Mount~
+N3*370 Wabasha Street N ECC-14~
+N4*St. Paul*MN*55102*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*182*EA*1****VS*EC0DropShipSV~
+CUR*BY*USD~
+PID*F****Drop Ship~
+REF*FJ*1~
+TDS*18200~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*22*0002~
+ST*810*0003~
+BIG*20240228*SINV02504005**MBP20240100443734***DI~
+CUR*BY*USD~
+N1*ST*Erin Mount~
+N2*Erin Mount~
+N3*370 Wabasha Street N ECC-14~
+N4*St. Paul*MN*55102*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*106*EA*1****VS*EC0DropShipSV~
+CUR*BY*USD~
+PID*F****Drop Ship~
+REF*FJ*1~
+TDS*10600~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*22*0003~
+ST*810*0004~
+BIG*20240228*SINV02504006**MBP20240100448914***DI~
+CUR*BY*USD~
+N1*ST*Bart Darke~
+N2*Bart Darke~
+N3*6019 Pebble Creek Dr~
+N4*Floyds Knobs*IN*47119*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*99.74****VS*EC00001794~
+CUR*BY*USD~
+PID*F****Ecolab Cus~
+REF*FJ*1~
+TDS*12655~
+TXI*TX*6.98~
+SAC*C*D500***1983**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0004~
+ST*810*0005~
+BIG*20240228*SINV02504007**MBP20240100448917***DI~
+CUR*BY*USD~
+N1*ST*Bart Darke~
+N2*Bart Darke~
+N3*6019 Pebble Creek Dr~
+N4*Floyds Knobs*IN*47119*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*99.74****VS*EC00001794~
+CUR*BY*USD~
+PID*F****Ecolab Cus~
+REF*FJ*1~
+TDS*12655~
+TXI*TX*6.98~
+SAC*C*D500***1983**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0005~
+ST*810*0006~
+BIG*20240228*SINV02504008**MBP20240100448918***DI~
+CUR*BY*USD~
+N1*ST*Bart Darke~
+N2*Bart Darke~
+N3*6019 Pebble Creek Dr~
+N4*Floyds Knobs*IN*47119*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*99.74****VS*EC00001794~
+CUR*BY*USD~
+PID*F****Ecolab Cus~
+REF*FJ*1~
+TDS*12655~
+TXI*TX*6.98~
+SAC*C*D500***1983**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0006~
+ST*810*0007~
+BIG*20240228*SINV02504010**MBP20240200454512***DI~
+CUR*BY*USD~
+N1*ST*Donald Karl~
+N2*Donald Karl~
+N3*9133 Ridgefield Drive~
+N4*Brighton*MI*48114*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*7*275*EA*1****VS*EC0UpchargeSV~
+CUR*BY*USD~
+PID*F****Item Addit~
+REF*FJ*1~
+TDS*27500~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*22*0007~
+ST*810*0008~
+BIG*20240228*SINV02504014**MBP20240200455485***DI~
+CUR*BY*USD~
+N1*ST*Lior Keren~
+N2*Lior Keren~
+N3*5504 Camden Ave.; Apt C-4~
+N4*San Jose*CA*95124*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*52.97****VS*EC00021193~
+CUR*BY*USD~
+PID*F****Devon & Jo~
+REF*FJ*1~
+TDS*5793~
+TXI*TX*4.96~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0008~
+ST*810*0009~
+BIG*20240228*SINV02504016**MBP20240200455771***DI~
+CUR*BY*USD~
+N1*ST*Terrance Kane~
+N2*Terrance Kane~
+N3*809 Paula Ln~
+N4*Petaluma*CA*94952*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*69.78****VS*EC00021025~
+CUR*BY*USD~
+PID*F****MERCER and~
+REF*FJ*1~
+TDS*7641~
+TXI*TX*6.63~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0009~
+ST*810*0010~
+BIG*20240228*SINV02504019**MBP20240200455752***DI~
+CUR*BY*USD~
+N1*ST*Patricia Robinson~
+N2*Patricia Robinson~
+N3*6238 Rime Village Dr APT 201~
+N4*Huntsville*AL*35806*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*59.88****VS*EC00021354~
+CUR*BY*USD~
+PID*F****Adidas Bas~
+REF*FJ*1~
+TDS*8006~
+TXI*TX*5.09~
+SAC*C*D500***1509**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0010~
+ST*810*0011~
+BIG*20240228*SINV02504020**MBP20240200455488***DI~
+CUR*BY*USD~
+N1*ST*Christopher Edwards~
+N2*Christopher Edwards~
+N3*5909 Moro Road~
+N4*Moro*IL*62067*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*2*1*EA*26****VS*EC00003006~
+CUR*BY*USD~
+PID*F****Flexfit Co~
+REF*FJ*1~
+TDS*2865~
+TXI*TX*2.65~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0011~
+ST*810*0012~
+BIG*20240228*SINV02504023**MBP20240200455964***DI~
+CUR*BY*USD~
+N1*ST*David Kanaby~
+N2*David Kanaby~
+N3*717 Mill Ln~
+N4*Hillsborough*NJ*08844*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*58.92****VS*EC00021285~
+CUR*BY*USD~
+PID*F****Adidas Bas~
+REF*FJ*1~
+IT1*2*1*EA*58.92****VS*EC00021285~
+CUR*BY*USD~
+PID*F****Adidas Bas~
+REF*FJ*2~
+TDS*13637~
+SAC*C*D500***1853**********Shipping & Handling Charge~
+CTT*2~
+SE*26*0012~
+ST*810*0013~
+BIG*20240228*SINV02504028**MBP20240200456157***DI~
+CUR*BY*USD~
+N1*ST*Todd Moeller~
+N2*Todd Moeller~
+N3*650 Louis Henna Blvd; #12102~
+N4*Round Rock*TX*78664*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*2*2*EA*52.97****VS*EC00021193~
+CUR*BY*USD~
+PID*F****Devon & Jo~
+REF*FJ*1~
+TDS*11468~
+TXI*TX*8.74~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0013~
+ST*810*0014~
+BIG*20240228*SINV02504031**MBP20240200456357***DI~
+CUR*BY*USD~
+N1*ST*Emil Guadagno~
+N2*Emil Guadagno~
+N3*1236 Longboat Ave~
+N4*Beachwood*NJ*08722*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*2*EA*65.1****VS*EC00021285~
+CUR*BY*USD~
+PID*F****Adidas Bas~
+REF*FJ*1~
+TDS*14529~
+SAC*C*D500***1509**********Shipping & Handling Charge~
+CTT*1~
+SE*22*0014~
+ST*810*0015~
+BIG*20240228*SINV02504033**MBP20240200456854***DI~
+CUR*BY*USD~
+N1*ST*Kenneth Perry~
+N2*Kenneth Perry~
+N3*1345 Purple Ln~
+N4*McDonough*GA*30252*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5646~
+TXI*TX*2.7~
+SAC*C*D500***2001**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0015~
+ST*810*0016~
+BIG*20240228*SINV02504034**MBP20240200456863***DI~
+CUR*BY*USD~
+N1*ST*Danielle Frokjer EGH/5~
+N2*Danielle Frokjer EGH/5~
+N3*1 Ecolab Place~
+N4*Saint Paul*MN*55102*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5317~
+TXI*TX*2.99~
+SAC*C*D500***1643**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0016~
+ST*810*0017~
+BIG*20240228*SINV02504035**MBP20240200456872***DI~
+CUR*BY*USD~
+N1*ST*Rob Bollman~
+N2*Rob Bollman~
+N3*942 Baker Road~
+N4*Martinsburg*WV*25405*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5177~
+TXI*TX*2.03~
+SAC*C*D500***1599**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0017~
+ST*810*0018~
+BIG*20240228*SINV02504036**MBP20240200456877***DI~
+CUR*BY*USD~
+N1*ST*Nichole Jackson~
+N2*Nichole Jackson~
+N3*10 Pinestead Ct~
+N4*Tomball*TX*77375*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5329~
+TXI*TX*2.79~
+SAC*C*D500***1675**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0018~
+ST*810*0019~
+BIG*20240228*SINV02504037**MBP20240200456881***DI~
+CUR*BY*USD~
+N1*ST*Amelia Jaspersen~
+N2*Amelia Jaspersen~
+N3*655 Lone Oak Dr; Dock E~
+N4*Eagan*MN*55121*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5281~
+TXI*TX*2.73~
+SAC*C*D500***1633**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0019~
+ST*810*0020~
+BIG*20240228*SINV02504038**MBP20240200456894***DI~
+CUR*BY*USD~
+N1*ST*Kenneth Perry~
+N2*Kenneth Perry~
+N3*1345 Purple Ln~
+N4*McDonough*GA*30252*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5646~
+TXI*TX*2.7~
+SAC*C*D500***2001**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0020~
+ST*810*0021~
+BIG*20240228*SINV02504041**MBP20240200456507***DI~
+CUR*BY*USD~
+N1*ST*Bryan Langford~
+N2*Bryan Langford~
+N3*11244 Exmoor Dr~
+N4*Concord*OH*44077*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*2*1*EA*73.75****VS*EC00021188~
+CUR*BY*USD~
+PID*F****Adidas Hea~
+REF*FJ*1~
+TDS*7909~
+TXI*TX*5.34~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0021~
+ST*810*0022~
+BIG*20240228*SINV02504042**MBP20240200456815***DI~
+CUR*BY*USD~
+N1*ST*Ecolab Food Retail Global Management Team Meeting Feb 2024~
+N2*Ecolab Food Retail Global Management Team Meeting Feb 2024~
+N3*1300 South Miami Avenue, Suite 300~
+N4*Miami*FL*33130*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*5*EA*117.54****VS*EC00002099~
+CUR*BY*USD~
+PID*F****Cherished~
+REF*FJ*1~
+TDS*92201~
+TXI*TX*39.67~
+SAC*C*D500***29464**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0022~
+ST*810*0023~
+BIG*20240228*SINV02504045**MBP20240200457361***DI~
+CUR*BY*USD~
+N1*ST*Jonathan Atkinson~
+N2*Jonathan Atkinson~
+N3*1345 Purple Ln~
+N4*McDonough*GA*30252*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5646~
+TXI*TX*2.7~
+SAC*C*D500***2001**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0023~
+ST*810*0024~
+BIG*20240228*SINV02504046**MBP20240200457364***DI~
+CUR*BY*USD~
+N1*ST*Megan Vargas~
+N2*Megan Vargas~
+N3*8300 Capital Drive~
+N4*Greensboro*NC*27409*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5214~
+TXI*TX*2.28~
+SAC*C*D500***1611**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0024~
+ST*810*0025~
+BIG*20240228*SINV02504047**MBP20240200457366***DI~
+CUR*BY*USD~
+N1*ST*Kenneth Perry~
+N2*Kenneth Perry~
+N3*1345 Purple Ln~
+N4*McDonough*GA*30252*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5646~
+TXI*TX*2.7~
+SAC*C*D500***2001**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0025~
+ST*810*0026~
+BIG*20240228*SINV02504048**MBP20240200457371***DI~
+CUR*BY*USD~
+N1*ST*Kenneth Perry~
+N2*Kenneth Perry~
+N3*1345 Purple Ln~
+N4*McDonough*GA*30252*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5646~
+TXI*TX*2.7~
+SAC*C*D500***2001**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0026~
+ST*810*0027~
+BIG*20240228*SINV02504049**MBP20240200457380***DI~
+CUR*BY*USD~
+N1*ST*Rachel Smith~
+N2*Rachel Smith~
+N3*1 Ecolab Place~
+N4*Saint Paul*MN*55102*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5317~
+TXI*TX*2.99~
+SAC*C*D500***1643**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0027~
+ST*810*0028~
+BIG*20240228*SINV02504050**MBP20240200457382***DI~
+CUR*BY*USD~
+N1*ST*Stephen Rivera~
+N2*Stephen Rivera~
+N3*3001 Channahan Road~
+N4*JOLIET*IL*60436*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5385~
+TXI*TX*3.46~
+SAC*C*D500***1664**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0028~
+ST*810*0029~
+BIG*20240228*SINV02504051**MBP20240200457391***DI~
+CUR*BY*USD~
+N1*ST*Mitchell Hinnenkamp EGH/5 Seat 534M~
+N2*Mitchell Hinnenkamp EGH/5 Seat 534M~
+N3*1 Ecolab Place~
+N4*Saint Paul*MN*55102*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5317~
+TXI*TX*2.99~
+SAC*C*D500***1643**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0029~
+ST*810*0030~
+BIG*20240228*SINV02504052**MBP20240200457399***DI~
+CUR*BY*USD~
+N1*ST*Christine Cox~
+N2*Christine Cox~
+N3*13500 Tradeport Circle East~
+N4*Jacksonville*FL*32256*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*33.75****VS*EC00001783~
+CUR*BY*USD~
+PID*F****Starphire~
+REF*FJ*1~
+TDS*5292~
+TXI*TX*2.54~
+SAC*C*D500***1663**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0030~
+ST*810*0031~
+BIG*20240228*SINV02504058**MBP20240200457928***DI~
+CUR*BY*USD~
+N1*ST*Ruben Salazar~
+N2*Ruben Salazar~
+N3*11031 Kirkwell Drive~
+N4*Houston*TX*77089*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*2*EA*96.86****VS*EC00021164~
+CUR*BY*USD~
+PID*F****TravisMath~
+REF*FJ*1~
+IT1*2*1*EA*96.45****VS*EC00021167~
+CUR*BY*USD~
+PID*F****Nike Dri-F~
+REF*FJ*2~
+IT1*6*1*EA*36.64****VS*EC00021211~
+CUR*BY*USD~
+PID*F****Port Autho~
+REF*FJ*3~
+TDS*34724~
+TXI*TX*20.43~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*3~
+SE*31*0031~
+ST*810*0032~
+BIG*20240228*SINV02504070**MBP20240200459989***DI~
+CUR*BY*USD~
+N1*ST*Ecolab / RLC 2024 Booth Items~
+N2*Ecolab / RLC 2024 Booth Items~
+N3*42 Northern Stacks Drive; Suite 100~
+N4*Minneapolis*MN*55421*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*500*EA*2.92****VS*EC00002996~
+CUR*BY*USD~
+PID*F****Hipster Su~
+REF*FJ*1~
+TDS*166071~
+TXI*TX*118.63~
+SAC*C*D500***8208**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0032~
+ST*810*0033~
+BIG*20240228*SINV02504073**MBP20240200458711***DI~
+CUR*BY*USD~
+N1*ST*Darren Waldeck~
+N2*Darren Waldeck~
+N3*4250 14th Way NE~
+N4*St. Petersburg*FL*33703*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*3*1*EA*35.89****VS*EC00020007~
+CUR*BY*USD~
+PID*F****Performanc~
+REF*FJ*1~
+TDS*8759~
+TXI*TX*2.51~
+SAC*C*D500***4919**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0033~
+ST*810*0034~
+BIG*20240228*SINV02504074**MBP20240200458608***DI~
+CUR*BY*USD~
+N1*ST*Rem Fox~
+N2*Rem Fox~
+N3*Rem Fox GAB627-1; 1214 Dolton Drive STE 202~
+N4*Dallas*TX*75207*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*35.89****VS*EC00020007~
+CUR*BY*USD~
+PID*F****Performanc~
+REF*FJ*1~
+TDS*3885~
+TXI*TX*2.96~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0034~
+ST*810*0035~
+BIG*20240228*SINV02504078**MBP20240200459171***DI~
+CUR*BY*USD~
+N1*ST*John Loudaros~
+N2*John Loudaros~
+N3*3303 164th Street; FL1~
+N4*Flushing*NY*11358*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*49.59****VS*EC00021117~
+CUR*BY*USD~
+PID*F****Asgard Eco~
+REF*FJ*1~
+TDS*4959~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*22*0035~
+ST*810*0036~
+BIG*20240228*SINV02504079**MBP20240200459189***DI~
+CUR*BY*USD~
+N1*ST*Luigi Petraccione~
+N2*Luigi Petraccione~
+N3*5607 Route 7~
+N4*Hoosick Falls*NY*12090*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*4*1*EA*80.14****VS*EC00020882~
+CUR*BY*USD~
+PID*F****Microburst~
+REF*FJ*1~
+IT1*5*1*EA*36.32****VS*EC00020111~
+CUR*BY*USD~
+PID*F****Vansport O~
+REF*FJ*2~
+TDS*18227~
+TXI*TX*4.65~
+SAC*C*D500***6116**********Shipping & Handling Charge~
+CTT*2~
+SE*27*0036~
+ST*810*0037~
+BIG*20240228*SINV02504080**MBP20240200459742***DI~
+CUR*BY*USD~
+N1*ST*Jake Conway~
+N2*Jake Conway~
+N3*3672 E Comstock Dr~
+N4*Gilbert*AZ*85296-1895*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*2*1*EA*77.51****VS*EC00021149~
+CUR*BY*USD~
+PID*F****Nike Dri-F~
+REF*FJ*1~
+IT1*3*1*EA*88.07****VS*EC00021151~
+CUR*BY*USD~
+PID*F****Nike Dri-F~
+REF*FJ*2~
+IT1*4*1*EA*47.89****VS*EC00021161~
+CUR*BY*USD~
+PID*F****OGIO Linea~
+REF*FJ*3~
+IT1*7*1*EA*52.63****VS*EC00020056~
+CUR*BY*USD~
+PID*F****Vansport P~
+REF*FJ*4~
+TDS*28287~
+TXI*TX*16.77~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*4~
+SE*35*0037~
+ST*810*0038~
+BIG*20240228*SINV02504081**MBP20240200460132***DI~
+CUR*BY*USD~
+N1*ST*Svenn Mikkelson~
+N2*Svenn Mikkelson~
+N3*817 Olde Towne Sq~
+N4*Chesterton*IN*46304*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*2*2*EA*55.07****VS*EC00020611~
+CUR*BY*USD~
+PID*F****Pullover S~
+REF*FJ*1~
+TDS*11785~
+TXI*TX*7.71~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0038~
+ST*810*0039~
+BIG*20240228*SINV02504082**MBP20240200460187***DI~
+CUR*BY*USD~
+N1*ST*Nathan Herrmann~
+N2*Nathan Herrmann~
+N3*8723 N Moonfire Dr~
+N4*Tucson*AZ*85743*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*3*2*EA*49.66****VS*EC00021124~
+CUR*BY*USD~
+PID*F****American G~
+REF*FJ*1~
+IT1*4*2*EA*49.66****VS*EC00021124~
+CUR*BY*USD~
+PID*F****American G~
+REF*FJ*2~
+TDS*21076~
+TXI*TX*12.12~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*2~
+SE*27*0039~
+ST*810*0040~
+BIG*20240228*SINV02504083**MBP20240200460245***DI~
+CUR*BY*USD~
+N1*ST*Jade Carty~
+N2*Jade Carty~
+N3*5245 Gordon Valley Rd~
+N4*Fairfield*CA*94534*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*3*1*EA*68.12****VS*EC00021208~
+CUR*BY*USD~
+PID*F****Ladies New~
+REF*FJ*1~
+TDS*7314~
+TXI*TX*5.02~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0040~
+ST*810*0041~
+BIG*20240228*SINV02504087**MBP20240200460973***DI~
+CUR*BY*USD~
+N1*ST*Veronica Arevalo 7132 west hutches Pools Pla~
+N2*Veronica Arevalo 7132 west hutches Pools Pla~
+N3*4535 E. Skousen Street~
+N4*Gilbert*AZ*85295*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*3*2*EA*37.67****VS*EC00020973~
+CUR*BY*USD~
+PID*F****Ladies Wil~
+REF*FJ*1~
+TDS*12758~
+TXI*TX*4.75~
+SAC*C*D500***4749**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0041~
+ST*810*0042~
+BIG*20240228*SINV02504088**MBP20240200460988***DI~
+CUR*BY*USD~
+N1*ST*Wendy Ingram~
+N2*Wendy Ingram~
+N3*8300 CAPITAL DR~
+N4*GREENSBORO*NC*27409-9790*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*69*EA*1****VS*EC0UpchargeSV~
+CUR*BY*USD~
+PID*F****Item Addit~
+REF*FJ*1~
+TDS*24779~
+SAC*C*D500***17879**********Shipping & Handling Charge~
+CTT*1~
+SE*22*0042~
+ST*810*0043~
+BIG*20240228*SINV02504090**MBP20240200461115***DI~
+CUR*BY*USD~
+N1*ST*Mark Rice~
+N2*Mark Rice~
+N3*251 Stewart Road~
+N4*Salem*OH*44460*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*2*EA*28.77****VS*EC00020978~
+CUR*BY*USD~
+PID*F****Dade Short~
+REF*FJ*1~
+TDS*9428~
+TXI*TX*4.17~
+SAC*C*D500***3257**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0043~
+ST*810*0044~
+BIG*20240228*SINV02504092**MBP20240200461548***DI~
+CUR*BY*USD~
+N1*ST*Mike Ornelas / Liquid Mix~
+N2*Mike Ornelas / Liquid Mix~
+N3*3001 Channahan Road~
+N4*Joliet*IL*60436*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*3*3*EA*69.32****VS*EC00003417~
+CUR*BY*USD~
+PID*F****Titleist P~
+REF*FJ*1~
+TDS*43711~
+TXI*TX*21.32~
+SAC*C*D500***20783**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0044~
+ST*810*0045~
+BIG*20240228*SINV02504096**MBP20240200462023***DI~
+CUR*BY*USD~
+N1*ST*Lily Samuels~
+N2*Lily Samuels~
+N3*19116 N 71st Dr~
+N4*Glendale*AZ*85308*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*2*EA*69.32****VS*EC00003418~
+CUR*BY*USD~
+PID*F****Titleist P~
+REF*FJ*1~
+TDS*16657~
+TXI*TX*12.75~
+SAC*C*D500***1518**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0045~
+ST*810*0046~
+BIG*20240228*SINV02504097**MBP20240200462166***DI~
+CUR*BY*USD~
+N1*ST*Nicole Sarrantonio~
+N2*Nicole Sarrantonio~
+N3*54 Maujer Street; APT 26~
+N4*Brooklyn*NY*11206*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*15.4****VS*EC00032011~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*1~
+TDS*3329~
+TXI*TX*1.37~
+SAC*C*D500***1652**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0046~
+ST*810*0047~
+BIG*20240228*SINV02504100**MBP20240200462322***DI~
+CUR*BY*USD~
+N1*ST*Donald Myers~
+N2*Donald Myers~
+N3*5171 Rogers Road~
+N4*Hamburg*NY*14075*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*10*EA*5.14****VS*EC00032038~
+CUR*BY*USD~
+PID*F****Odyssey Ba~
+REF*FJ*1~
+IT1*2*5*EA*6.17****VS*EC00032110~
+CUR*BY*USD~
+PID*F****Big Thunde~
+REF*FJ*2~
+IT1*3*10*EA*7.19****VS*EC00032106~
+CUR*BY*USD~
+PID*F****Bottle Ope~
+REF*FJ*3~
+TDS*18415~
+TXI*TX*13.49~
+SAC*C*D500***1651**********Shipping & Handling Charge~
+CTT*3~
+SE*31*0047~
+ST*810*0048~
+BIG*20240228*SINV02504101**MBP20240200462378***DI~
+CUR*BY*USD~
+N1*ST*Alan Hubbart~
+N2*Alan Hubbart~
+N3*7327 Woodstream Drive~
+N4*Charlotte*NC*28210*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*31.77****VS*EC00032014~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*1~
+IT1*2*1*EA*28.96****VS*EC00032012~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*2~
+IT1*3*1*EA*28.96****VS*EC00032013~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*3~
+IT1*4*1*EA*30.24****VS*EC00032015~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*4~
+TDS*14491~
+TXI*TX*8.7~
+SAC*C*D500***1628**********Shipping & Handling Charge~
+CTT*4~
+SE*35*0048~
+ST*810*0049~
+BIG*20240228*SINV02504104**MBP20240200462399***DI~
+CUR*BY*USD~
+N1*ST*Stephanie Correia~
+N2*Stephanie Correia~
+N3*2205 Harbor Cliff Dr.~
+N4*Las Vegas*NV*89128*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*28.96****VS*EC00032012~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*1~
+TDS*4657~
+TXI*TX*2.43~
+SAC*C*D500***1518**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0049~
+ST*810*0050~
+BIG*20240228*SINV02504110**MBP20240200460687***DI~
+CUR*BY*USD~
+N1*ST*Aaron Hernandez~
+N2*Aaron Hernandez~
+N3*226 Mapleview Drive~
+N4*Mount Washington*KY*40047*US~
+N1*BT*Ecolab~
+N2*Nalco Company LLC~
+N3*1601 West Diehl Rd*1601 West Diehl Rd~
+N4*Naperville*IL*60563-1198*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*6*1*EA*6.68****VS*EC00032135~
+CUR*BY*USD~
+PID*F****2024 Span-~
+REF*FJ*1~
+TDS*5537~
+TXI*TX*0.4~
+SAC*C*D500***4829**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0050~
+ST*810*0051~
+BIG*20240228*SINV02504112**MBP20240200460237***DI~
+CUR*BY*USD~
+N1*ST*Virgil Salvo~
+N2*Virgil Salvo~
+N3*242 Bay Park Dr.~
+N4*Brandon*MS*39047*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*2*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*1~
+IT1*2*1*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*2~
+IT1*3*2*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*3~
+IT1*7*9*EA*3.27****VS*EC00032062~
+CUR*BY*USD~
+PID*F****Reversible~
+REF*FJ*4~
+IT1*8*1*EA*24.81****VS*EC00032044~
+CUR*BY*USD~
+PID*F****Zippered P~
+REF*FJ*5~
+TDS*18820~
+TXI*TX*10.16~
+SAC*C*D500***3290**********Shipping & Handling Charge~
+CTT*5~
+SE*39*0051~
+ST*810*0052~
+BIG*20240228*SINV02504113**MBP20240200459659***DI~
+CUR*BY*USD~
+N1*ST*Arthur Mosier~
+N2*Arthur Mosier~
+N3*2155 Kingsley Lane~
+N4*Chesapeake*VA*23323*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*3*1*EA*13.3****VS*EC00032045~
+CUR*BY*USD~
+PID*F****Ceramic Mi~
+REF*FJ*1~
+TDS*4447~
+TXI*TX*0.8~
+SAC*C*D500***3037**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0052~
+ST*810*0053~
+BIG*20240228*SINV02504115**MBP20240200459364***DI~
+CUR*BY*USD~
+N1*ST*Leah Knox~
+N2*Leah Knox~
+N3*475 LINKS VIEW DRIVE~
+N4*Hagerstown*MD*21740*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*11.86****VS*EC00032041~
+CUR*BY*USD~
+PID*F****Edge Coole~
+REF*FJ*1~
+IT1*2*1*EA*7.19****VS*EC00032106~
+CUR*BY*USD~
+PID*F****Bottle Ope~
+REF*FJ*2~
+TDS*3539~
+TXI*TX*1.16~
+SAC*C*D500***1518**********Shipping & Handling Charge~
+CTT*2~
+SE*27*0053~
+ST*810*0054~
+BIG*20240228*SINV02504117**MBP20240200462541***DI~
+CUR*BY*USD~
+N1*ST*Tracey Hartman~
+N2*Tracey Hartman~
+N3*1910 CR 14~
+N4*Waterloo*IN*46793*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*10*EA*20.49****VS*EC00032050~
+CUR*BY*USD~
+PID*F****Pedova Lar~
+REF*FJ*1~
+TDS*25918~
+TXI*TX*14.34~
+SAC*C*D500***3994**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0054~
+ST*810*0055~
+BIG*20240228*SINV02504118**MBP20240200459719***DI~
+CUR*BY*USD~
+N1*ST*Carmen Watson-Dulude~
+N2*Carmen Watson-Dulude~
+N3*4013 Woodside Dr.; Unit # N~
+N4*Coral Springs*FL*33065*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*1~
+IT1*2*1*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*2~
+TDS*5515~
+TXI*TX*2.54~
+SAC*C*D500***1625**********Shipping & Handling Charge~
+CTT*2~
+SE*27*0055~
+ST*810*0056~
+BIG*20240228*SINV02504119**MBP20240200461939***DI~
+CUR*BY*USD~
+N1*ST*Matthew Welsch~
+N2*Matthew Welsch~
+N3*944 N Deer Ave~
+N4*Palatine*IL*60067*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*12*EA*3.27****VS*EC00032062~
+CUR*BY*USD~
+PID*F****Reversible~
+REF*FJ*1~
+IT1*2*1*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*2~
+IT1*3*1*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*3~
+TDS*10008~
+TXI*TX*7.74~
+SAC*C*D500***1674**********Shipping & Handling Charge~
+CTT*3~
+SE*31*0056~
+ST*810*0057~
+BIG*20240228*SINV02504123**MBP20240200462495***DI~
+CUR*BY*USD~
+N1*ST*Mark Gibbs~
+N2*Mark Gibbs~
+N3*4029 Habana Avenue~
+N4*Jacksonville*FL*32217*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*28.96****VS*EC00032013~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*1~
+IT1*3*1*EA*18.18****VS*EC00032084~
+CUR*BY*USD~
+PID*F****New Era St~
+REF*FJ*2~
+TDS*8333~
+TXI*TX*3.55~
+SAC*C*D500***3264**********Shipping & Handling Charge~
+CTT*2~
+SE*27*0057~
+ST*810*0058~
+BIG*20240228*SINV02504379**MBP20240100449765***DI~
+CUR*BY*USD~
+N1*ST*Julianne Enderle~
+N2*Julianne Enderle~
+N3*1601 W Diehl Rd~
+N4*Naperville*IL*60563*US~
+N1*BT*Ecolab~
+N3*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1**25*EA*9.49****VS*EC00003252~
+CUR*BY*USD~
+PID*F****h2go Void~
+REF*FJ*1~
+IT1**25*EA*9.49****VS*EC00003252~
+CUR*BY*USD~
+PID*F****h2go Void~
+REF*FJ*2~
+TDS*51128~
+TXI*TX*36.78~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*2~
+SE*26*0058~
+ST*810*0059~
+BIG*20240228*SINV02504475**MBP20240200462755***DI~
+CUR*BY*USD~
+N1*ST*Jesus Pinto Flores~
+N2*Jesus Pinto Flores~
+N3*3038 Lublin St~
+N4*Pomona*CA*91767*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*6*3*EA*5****VS*EC00032138~
+CUR*BY*USD~
+PID*F****2024 Sceni~
+REF*FJ*1~
+TDS*6568~
+TXI*TX*1.55~
+SAC*C*D500***4913**********Shipping & Handling Charge~
+CTT*1~
+SE*23*0059~
+ST*810*0060~
+BIG*20240228*SINV02504476**MBP20240200462906***DI~
+CUR*BY*USD~
+N1*ST*Jake Applegarth~
+N2*Jake Applegarth~
+N3*13187 Bold Forbes St.~
+N4*Frisco*TX*75035*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*28.96****VS*EC00032012~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*1~
+IT1*2*2*EA*28.96****VS*EC00032013~
+CUR*BY*USD~
+PID*F****Ecolab Ser~
+REF*FJ*2~
+TDS*13737~
+TXI*TX*7.17~
+SAC*C*D500***4332**********Shipping & Handling Charge~
+CTT*2~
+SE*27*0060~
+ST*810*0061~
+BIG*20240228*SINV02504477**MBP20240200462992***DI~
+CUR*BY*USD~
+N1*ST*Stephen Rivera - 20141894~
+N2*Stephen Rivera - 20141894~
+N3*1060 Thorndale Ave~
+N4*Elk Grove Village*IL*60007*US~
+N1*BT*Ecolab~
+N2*Ecolab Inc~
+N3*PO Box 64395*PO Box 64395~
+N4*Saint Paul*MN*55164-0395*US~
+N1*RI*Zorch International, Inc.~
+N3*Dept. 10422 PO Box 87618~
+N4*Chicago*IL*60680-0618*US~
+IT1*1*1*EA*25****VS*ECG0000001~
+CUR*BY*USD~
+PID*F****eGift Card~
+REF*FJ*1~
+IT1*2*1*EA*25****VS*ECG0000001~
+CUR*BY*USD~
+PID*F****eGift Card~
+REF*FJ*2~
+IT1*3*1*EA*25****VS*ECG0000001~
+CUR*BY*USD~
+PID*F****eGift Card~
+REF*FJ*3~
+TDS*7500~
+SAC*C*D500***0**********Shipping & Handling Charge~
+CTT*3~
+SE*30*0061~
+GE*61*5026~
+IEA*1*000005026~

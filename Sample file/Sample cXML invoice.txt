@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.024/InvoiceDetail.dtd">
+<cXML timestamp="2024-01-05T00:00:00" payloadID="20240105T180613.485Z" version="1.2.024" xml:lang="en-US">
+    <Header>
+        <From>
+            <Credential domain="NetworkId">
+                <Identity>042653634</Identity>
+            </Credential>
+        </From>
+        <To>
+            <Credential domain="NetworkId">
+                <Identity>OCEANEERING-T</Identity>
+            </Credential>
+        </To>
+        <Sender>
+            <Credential domain="NetworkId">
+                <Identity>042653634</Identity>
+                <SharedSecret>Ecommerce</SharedSecret>
+            </Credential>
+            <UserAgent>GEP</UserAgent>
+        </Sender>
+    </Header>
+    <Request deploymentMode="test">
+        <InvoiceDetailRequest>
+            <InvoiceDetailRequestHeader invoiceDate="2024-01-05T00:00:00-00:00" invoiceID="CASAM37566" operation="new" purpose="standard">
+                <InvoiceDetailHeaderIndicator/>
+                <InvoicePartner>
+                    <Contact role="remitTo">
+                        <Name xml:lang="en-US">FASTENAL</Name>
+                        <PostalAddress>
+                            <Street>2001 THEURER BLVD.</Street>
+                            <Street>P.O. BOX 978</Street>
+                            <City>WINONA</City>
+                            <State>MN</State>
+                            <PostalCode>559870978</PostalCode>
+                            <Country isoCountryCode="US">United States</Country>
+                        </PostalAddress>
+                    </Contact>
+                </InvoicePartner>
+                <InvoiceDetailPaymentTerm payInNumberOfDays="30"/>
+            </InvoiceDetailRequestHeader>
+            <InvoiceDetailOrder>
+                <InvoiceDetailOrderInfo>
+                    <OrderIDInfo orderID="BUIEH-165258"/>
+                </InvoiceDetailOrderInfo>
+                <InvoiceDetailItem invoiceLineNumber="1" quantity="2">
+                    <UnitOfMeasure>EA</UnitOfMeasure>
+                    <UnitPrice>
+                        <Money currency="USD">3000</Money>
+                    </UnitPrice>
+                    <InvoiceDetailItemReference lineNumber="1">
+                        <ItemID>
+                            <SupplierPartID>54013</SupplierPartID>
+                            <SupplierPartAuxiliaryID>54013</SupplierPartAuxiliaryID>
+                        </ItemID>
+                        <Description xml:lang="en-US">FAST 1/4 X 24</Description>
+                    </InvoiceDetailItemReference>
+                    <Tax>
+                        <Money currency="USD">0</Money>
+                        <Description xml:lang="en">Total Item Tax</Description>
+                        <TaxDetail purpose="tax" category="tax" percentageRate="0">
+                            <TaxableAmount>
+                                <Money currency="USD">0</Money>
+                            </TaxableAmount>
+                            <TaxAmount>
+                                <Money currency="USD">0</Money>
+                            </TaxAmount>
+                            <Description xml:lang="en-US">SALES_TAX</Description>
+                            <Extrinsic name="TaxDetailExtrinsic">
+                                <TaxDetailExtrinsic>
+                                    <TaxCode>SALES_TAX</TaxCode>
+                                </TaxDetailExtrinsic>
+                            </Extrinsic>
+                        </TaxDetail>
+                    </Tax>
+                    <InvoiceDetailLineShipping>
+                        <Money currency="USD">0</Money>
+                    </InvoiceDetailLineShipping>
+                </InvoiceDetailItem>
+            </InvoiceDetailOrder>
+            <InvoiceDetailSummary>
+                <SubtotalAmount>
+                    <Money currency="USD">6000</Money>
+                </SubtotalAmount>
+                <Tax>
+                    <Money currency="USD">0</Money>
+                    <Description xml:lang="en-US">TAX</Description>
+                </Tax>
+                <ShippingAmount>
+                    <Money currency="USD">0</Money>
+                </ShippingAmount>
+                <GrossAmount>
+                    <Money currency="USD">6000</Money>
+                </GrossAmount>
+                <NetAmount>
+                    <Money currency="USD">6000</Money>
+                </NetAmount>
+                <DueAmount>
+                    <Money currency="USD">6000</Money>
+                </DueAmount>
+            </InvoiceDetailSummary>
+        </InvoiceDetailRequest>
+    </Request>
+</cXML>

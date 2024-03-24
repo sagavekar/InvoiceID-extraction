@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cXML version="1.2.014" xml:lang="en-US" timestamp="2016-04-20T11:21:18-04:00" payloadID="PO2016-00067201_to_835433830T.1949.5037161172302@duplionline.com">
+  <Header>
+    <From>
+      <Credential domain="DUNS">
+        <Identity>200200200</Identity>
+      </Credential>
+    </From>
+    <To>
+      <Credential domain="DUNS">
+        <Identity>835433830T</Identity>
+      </Credential>
+    </To>
+    <Sender>
+      <Credential domain="NetworkID">
+        <Identity>107741050</Identity>
+        <SharedSecret>123dupli</SharedSecret>
+      </Credential>
+      <UserAgent>dolXML</UserAgent>
+    </Sender>
+  </Header>
+  <Request deploymentMode="test">
+    <InvoiceDetailRequest>
+      <InvoiceDetailRequestHeader invoiceID="0067201T1724" purpose="standard" operation="new" invoiceDate="2016-04-20T11:21:18-04:00">
+        <InvoiceDetailHeaderIndicator />
+        <InvoiceDetailLineIndicator isAccountingInLine="yes" />
+        <InvoiceDetailShipping>
+          <Contact role="shipFrom">
+            <Name xml:lang="en">Shipping</Name>
+            <PostalAddress>
+              <Street>6761 Thompson Road</Street>
+              <City>Syracuse</City>
+              <State>NY</State>
+              <PostalCode>13211</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+            <Phone>
+              <TelephoneNumber>
+                <CountryCode isoCountryCode="US">1</CountryCode>
+                <AreaOrCityCode>315</AreaOrCityCode>
+                <Number>234-7294</Number>
+              </TelephoneNumber>
+            </Phone>
+          </Contact>
+          <Contact role="shipTo">
+            <Name xml:lang="en">ACS SET</Name>
+            <PostalAddress>
+              <Street>ACS-GA-National Home Office</Street>
+              <City>Atlanta</City>
+              <State>GA</State>
+              <PostalCode>30303</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoiceDetailShipping>
+      </InvoiceDetailRequestHeader>
+      <InvoiceDetailOrder>
+        <InvoiceDetailOrderInfo>
+          <OrderReference orderID="PO2016-000672">
+            <DocumentReference payloadID="635966616368843198.5627f2e4de0c41ea96ea3defad342c6e@GEPINTERFACEUAT.gep.com" />
+          </OrderReference>
+        </InvoiceDetailOrderInfo>
+        <InvoiceDetailItem invoiceLineNumber="1" quantity="2000">
+          <UnitOfMeasure>LO</UnitOfMeasure>
+          <UnitPrice>
+            <Money currency="USD">83.7800</Money>
+          </UnitPrice>
+          <InvoiceDetailItemReference lineNumber="1">
+            <ItemID>
+              <SupplierPartID>402811-543126</SupplierPartID>
+            </ItemID>
+            <Description xml:lang="en-US">American Cancer Society Business Card - Backer 1</Description>
+          </InvoiceDetailItemReference>
+          <SubtotalAmount>
+            <Money currency="USD">83.78</Money>
+          </SubtotalAmount>
+        </InvoiceDetailItem>
+        <InvoiceDetailItem invoiceLineNumber="2" quantity="5000">
+          <UnitOfMeasure>LO</UnitOfMeasure>
+          <UnitPrice>
+            <Money currency="USD">132.9500</Money>
+          </UnitPrice>
+          <InvoiceDetailItemReference lineNumber="2">
+            <ItemID>
+              <SupplierPartID>402811-543128</SupplierPartID>
+            </ItemID>
+            <Description xml:lang="en-US">American Cancer Society Corporate Letterhead, Standard Stock</Description>
+          </InvoiceDetailItemReference>
+          <SubtotalAmount>
+            <Money currency="USD">132.95</Money>
+          </SubtotalAmount>
+        </InvoiceDetailItem>
+      </InvoiceDetailOrder>
+      <InvoiceDetailSummary>
+        <SubtotalAmount>
+          <Money currency="USD">216.73</Money>
+        </SubtotalAmount>
+        <Tax>
+          <Money currency="USD">0.00</Money>
+          <Description xml:lang="en-US">Tax Summary</Description>
+        </Tax>
+        <ShippingAmount>
+          <Money currency="USD">21.45</Money>
+        </ShippingAmount>
+        <GrossAmount>
+          <Money currency="USD">238.18</Money>
+        </GrossAmount>
+        <NetAmount>
+          <Money currency="USD">238.18</Money>
+        </NetAmount>
+        <DueAmount>
+          <Money currency="USD">238.18</Money>
+        </DueAmount>
+      </InvoiceDetailSummary>
+    </InvoiceDetailRequest>
+  </Request>
+</cXML>

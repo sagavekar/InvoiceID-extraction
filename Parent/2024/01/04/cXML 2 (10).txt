@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cXML version="1.1.008" payloadID="0.20720160426083108083108@staples.com" timestamp="2016-04-26T09:31:08-04:00">
+  <Header>
+    <From>
+      <Credential domain="DUNS">
+        <Identity>STAPLESADVT</Identity>
+      </Credential>
+    </From>
+    <To>
+      <Credential domain="">
+        <Identity>ACSSMRT-T</Identity>
+      </Credential>
+    </To>
+    <Sender>
+      <Credential domain="DUNS">
+        <Identity>STAPLESADVT</Identity>
+        <SharedSecret>staples</SharedSecret>
+      </Credential>
+      <UserAgent>CatalogManager</UserAgent>
+    </Sender>
+  </Header>
+  <Request>
+    <InvoiceDetailRequest>
+      <InvoiceDetailRequestHeader invoiceID="3004890225" purpose="standard" operation="new" invoiceDate="2016-04-26T08:31:08-04:00">
+        <InvoiceDetailHeaderIndicator />
+        <InvoiceDetailLineIndicator isTaxInLine="yes" isShippingInLine="yes" isAccountingInLine="yes" />
+        <InvoicePartner>
+          <Contact role="remitTo" addressID="">
+            <Name xml:lang="en">Staples Business Advantage Dept DAL</Name>
+            <PostalAddress>
+              <Street>P.O. Box 83689</Street>
+              <City>Chicago</City>
+              <State>IL</State>
+              <PostalCode>60696</PostalCode>
+              <Country isoCountryCode="US">United States</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoicePartner>
+          <Contact role="billTo">
+            <Name xml:lang="en">AMERICAN CANCER SOCIETY GEP PO</Name>
+            <PostalAddress>
+              <Street>8400 SILVER CROSSING</Street>
+              <City>OKLAHOMA CITY</City>
+              <State>OK</State>
+              <PostalCode>73132</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoicePartner>
+          <Contact role="from">
+            <Name xml:lang="en">Staples Inc.</Name>
+            <PostalAddress>
+              <Street>500 Staples Dr</Street>
+              <City>Framingham</City>
+              <State>MA</State>
+              <PostalCode>01702</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoicePartner>
+          <Contact role="shipTo" addressID="X01951">
+            <Name xml:lang="en">AMERICAN CANCER SOCIETY GEP PO</Name>
+            <PostalAddress>
+              <Street>4500 SUNNY ISLE</Street>
+              <City>CHRISTIANSTED</City>
+              <State>VI</State>
+              <PostalCode>00820</PostalCode>
+              <Country isoCountryCode="US">USA</Country>
+            </PostalAddress>
+          </Contact>
+        </InvoicePartner>
+        <InvoiceDetailPaymentTerm payInNumberOfDays="030" percentageRate="0.0" />
+      </InvoiceDetailRequestHeader>
+      <InvoiceDetailOrder>
+        <InvoiceDetailOrderInfo>
+          <OrderIDInfo orderID="PO03:16-000350" />
+        </InvoiceDetailOrderInfo>
+        <InvoiceDetailItem invoiceLineNumber="1" quantity="0000001">
+          <UnitOfMeasure>DZ</UnitOfMeasure>
+          <UnitPrice>
+            <Money currency="USD">1.87</Money>
+          </UnitPrice>
+          <InvoiceDetailItemReference lineNumber="00003">
+            <ItemID>
+              <SupplierPartID>932600</SupplierPartID>
+            </ItemID>
+            <Description xml:lang="en">STAPLES HYPE FLUORESCENT HIGHL</Description>
+          </InvoiceDetailItemReference>
+          <SubtotalAmount>
+            <Money currency="USD">1.87</Money>
+          </SubtotalAmount>
+          <Tax>
+            <Money currency="USD">0.00</Money>
+            <Description xml:lang="en">Total Item Tax</Description>
+            <TaxDetail purpose="Local Sales Tax" category="sales" percentageRate="0.0">
+              <TaxableAmount>
+                <Money currency="USD">1.87</Money>
+              </TaxableAmount>
+              <TaxAmount>
+                <Money currency="USD">0.00</Money>
+              </TaxAmount>
+              <TaxLocation xml:lang="en">VI</TaxLocation>
+            </TaxDetail>
+          </Tax>
+          <InvoiceDetailLineShipping>
+            <InvoiceDetailShipping>
+              <Contact role="shipFrom" addressID="SPLS">
+                <Name xml:lang="en">Staples Inc.</Name>
+                <PostalAddress>
+                  <Street>500 Staples Dr</Street>
+                  <City>Framingham</City>
+                  <State>MA</State>
+                  <PostalCode>01702</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+              <Contact role="shipTo" addressID="X01951">
+                <Name xml:lang="en-US">AMERICAN CANCER SOCIETY GEP PO</Name>
+                <PostalAddress>
+                  <DeliverTo>ACS SET</DeliverTo>
+                  <Street>4500 SUNNY ISLE</Street>
+                  <City>CHRISTIANSTED</City>
+                  <State>VI</State>
+                  <PostalCode>00820</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+            </InvoiceDetailShipping>
+            <Money currency="USD">0.0</Money>
+          </InvoiceDetailLineShipping>
+          <GrossAmount>
+            <Money currency="USD">1.87</Money>
+          </GrossAmount>
+          <InvoiceDetailDiscount percentageRate="0.0">
+            <Money currency="USD">0.0</Money>
+          </InvoiceDetailDiscount>
+          <NetAmount>
+            <Money currency="USD">1.87</Money>
+          </NetAmount>
+          <Distribution>
+            <Accounting name="Buyer assigned accounting code ">
+              <AccountingSegment id="PO03:16-000350">
+                <Name xml:lang="en">Trade</Name>
+                <Description xml:lang="en">Budget Center</Description>
+              </AccountingSegment>
+            </Accounting>
+            <Charge>
+              <Money currency="USD">1.87</Money>
+            </Charge>
+          </Distribution>
+        </InvoiceDetailItem>
+        <InvoiceDetailItem invoiceLineNumber="2" quantity="0000001">
+          <UnitOfMeasure>SE</UnitOfMeasure>
+          <UnitPrice>
+            <Money currency="USD">3.89</Money>
+          </UnitPrice>
+          <InvoiceDetailItemReference lineNumber="00004">
+            <ItemID>
+              <SupplierPartID>421321</SupplierPartID>
+            </ItemID>
+            <Description xml:lang="en">AVERY MARKS-A-LOT DRY-ERASE MA</Description>
+          </InvoiceDetailItemReference>
+          <SubtotalAmount>
+            <Money currency="USD">3.89</Money>
+          </SubtotalAmount>
+          <Tax>
+            <Money currency="USD">0.00</Money>
+            <Description xml:lang="en">Total Item Tax</Description>
+            <TaxDetail purpose="Local Sales Tax" category="sales" percentageRate="0.0">
+              <TaxableAmount>
+                <Money currency="USD">3.89</Money>
+              </TaxableAmount>
+              <TaxAmount>
+                <Money currency="USD">0.00</Money>
+              </TaxAmount>
+              <TaxLocation xml:lang="en">VI</TaxLocation>
+            </TaxDetail>
+          </Tax>
+          <InvoiceDetailLineShipping>
+            <InvoiceDetailShipping>
+              <Contact role="shipFrom" addressID="SPLS">
+                <Name xml:lang="en">Staples Inc.</Name>
+                <PostalAddress>
+                  <Street>500 Staples Dr</Street>
+                  <City>Framingham</City>
+                  <State>MA</State>
+                  <PostalCode>01702</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+              <Contact role="shipTo" addressID="X01951">
+                <Name xml:lang="en-US">AMERICAN CANCER SOCIETY GEP PO</Name>
+                <PostalAddress>
+                  <DeliverTo>ACS SET</DeliverTo>
+                  <Street>4500 SUNNY ISLE</Street>
+                  <City>CHRISTIANSTED</City>
+                  <State>VI</State>
+                  <PostalCode>00820</PostalCode>
+                  <Country isoCountryCode="US">USA</Country>
+                </PostalAddress>
+              </Contact>
+            </InvoiceDetailShipping>
+            <Money currency="USD">0.0</Money>
+          </InvoiceDetailLineShipping>
+          <GrossAmount>
+            <Money currency="USD">3.89</Money>
+          </GrossAmount>
+          <InvoiceDetailDiscount percentageRate="0.0">
+            <Money currency="USD">0.0</Money>
+          </InvoiceDetailDiscount>
+          <NetAmount>
+            <Money currency="USD">3.89</Money>
+          </NetAmount>
+          <Distribution>
+            <Accounting name="Buyer assigned accounting code ">
+              <AccountingSegment id="PO03:16-000350">
+                <Name xml:lang="en">Trade</Name>
+                <Description xml:lang="en">Budget Center</Description>
+              </AccountingSegment>
+            </Accounting>
+            <Charge>
+              <Money currency="USD">3.89</Money>
+            </Charge>
+          </Distribution>
+        </InvoiceDetailItem>
+      </InvoiceDetailOrder>
+      <InvoiceDetailSummary>
+        <SubtotalAmount>
+          <Money currency="USD">5.76</Money>
+        </SubtotalAmount>
+        <Tax>
+          <Money currency="USD">0.00</Money>
+          <Description xml:lang="en">Total Tax Invoice</Description>
+          <TaxDetail purpose="Local Sales Tax" category="Sales" percentageRate="0.0">
+            <TaxableAmount>
+              <Money currency="USD">5.76</Money>
+            </TaxableAmount>
+            <TaxAmount>
+              <Money currency="USD">0.00</Money>
+            </TaxAmount>
+            <TaxLocation xml:lang="en">VI</TaxLocation>
+          </TaxDetail>
+        </Tax>
+        <ShippingAmount>
+          <Money currency="USD">0.0</Money>
+        </ShippingAmount>
+        <GrossAmount>
+          <Money currency="USD">5.76</Money>
+        </GrossAmount>
+        <NetAmount>
+          <Money currency="USD">5.76</Money>
+        </NetAmount>
+        <DueAmount>
+          <Money currency="USD">5.76</Money>
+        </DueAmount>
+      </InvoiceDetailSummary>
+    </InvoiceDetailRequest>
+  </Request>
+</cXML>
