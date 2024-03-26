@@ -1,0 +1,4572 @@
+ISA|00|          |00|          |ZZ|KUBDUKEENERGYOH|01|101496735P     |240302|0302|U|00401|000000492|0|P|:~
+GS|IN|KUBDUKEENERGYOH|101496735P|20240302|03022495|492|X|004010~
+ST|810|0001~
+BIG|20240304|200362444759|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069165. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $4.23 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117866109~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117866109~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117866109~
+N3|5375 GLANCY CORNER MARATHON RD~
+N4|WILLIAMSBURG|OH|45176-9466|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069165~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069165~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-1.66~
+PAM|99|93.645|KH|||MO|MRR|20230201~
+PAM|99|92.058|KH|||MO|MRR|20230301~
+PAM|99|89.682|KH|||MO|MRR|20230401~
+PAM|99|100.516|KH|||MO|MRR|20230501~
+PAM|99|95.653|KH|||MO|MRR|20230601~
+PAM|99|92.825|KH|||MO|MRR|20230701~
+PAM|99|105.229|KH|||MO|MRR|20230801~
+PAM|99|92.195|KH|||MO|MRR|20230901~
+PAM|99|99.546|KH|||MO|MRR|20231001~
+PAM|99|95.653|KH|||MO|MRR|20231101~
+PAM|99|87.886|KH|||MO|MRR|20231201~
+PAM|99|109.79|KH|||MO|MRR|20240101~
+PAM|99|89.05|KH|||MO|MRR|20240201~
+PAM|99|1150.083|KH|||PM|MRR|20240202~
+PAM|99|95.84|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117866109Z109005698|Choice Service ID~
+REF|MG|339777480|INTERVAL BILLED~
+REF|AH|3117990962~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|89.05|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|89.05|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|22.587|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|66.463|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.216|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.136|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3117990962~
+REF|MG|339777480|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|435|||.048863|KH|89.05|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|749||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|339777480|INTERVAL BILLED~
+REF|AH|3117990962~
+SLN|0001||A~
+SAC|C||EU|TPI001|324||||||||||ENERGY CHARGE (71.24kWh X .0454801)~
+SLN|0002||A~
+SAC|C||EU|TPI001|06||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|25||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|23||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|03||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|42||||||||||Balancing Energy~
+TDS|-166~
+SAC|C||EU|PRB001|3126||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-6252||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2537||||||||||Electric Delivery~
+SAC|N||EU|ENC000|423||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-166||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0001~
+ST|810|0002~
+BIG|20240304|200102444017|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Residential Service (RS).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069517. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|Price to compare} If you're considering using a different electric~
+NTE|ADD|supplier, their rate would have to be lower than 9.71 cents per kWh~
+NTE|ADD|for you to save money. Visit energychoice.ohio.gov to compare rates of~
+NTE|ADD|all electric suppliers or contact Duke Energy for a written explanation.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|In Case No. 21-887-EL-AIR, the PUCO approved an adjustment to Rider~
+NTE|ADD|ETCJA, Electric Tax Cuts and Job Initiatives Rider. Overall, a typical~
+NTE|ADD|residential customer using 1,000 kWh per month will see an increase of~
+NTE|ADD|approximately $0.32 or 0.19% per month effective March 1, 2024.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $12.17 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117553791~
+N1|BT|CINCINNATI BELL TELEPHONE|91|910117553791~
+N2|PO BOX 2301~
+N3|AP 103-1115~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE|91|910117553791~
+N3|608 CEDAR KNOLL PL~
+N4|TRENTON|OH|45067-9625|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069517~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069517~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|4.73~
+PAM|99|278.276|KH|||MO|MRR|20230201~
+PAM|99|287.46|KH|||MO|MRR|20230301~
+PAM|99|270.161|KH|||MO|MRR|20230401~
+PAM|99|301.171|KH|||MO|MRR|20230501~
+PAM|99|285.873|KH|||MO|MRR|20230601~
+PAM|99|279.928|KH|||MO|MRR|20230701~
+PAM|99|315.819|KH|||MO|MRR|20230801~
+PAM|99|269.69|KH|||MO|MRR|20230901~
+PAM|99|283.535|KH|||MO|MRR|20231001~
+PAM|99|274.839|KH|||MO|MRR|20231101~
+PAM|99|257.33|KH|||MO|MRR|20231201~
+PAM|99|296.382|KH|||MO|MRR|20240101~
+PAM|99|257.565|KH|||MO|MRR|20240201~
+PAM|99|3379.753|KH|||PM|MRR|20240202~
+PAM|99|281.646|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117553791Z110466188|Choice Service ID~
+REF|MG|346290837|INTERVAL BILLED~
+REF|AH|3117916889~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|257.565|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|257.565|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|65.608|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|191.957|||||Billed Off Peak kWh~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|RT|Residential Service (RS)~
+REF|AH|3117916889~
+REF|MG|346290837|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|800||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1022|||.039693|KH|257.565|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|649||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|DIS001|09||||||||||Delivery Riders - Jan 31 to Jan 31~
+SLN|0005||A~
+SAC|C||EU|DIS001|273||||||||||Delivery Riders - Feb 01 to Feb 28~
+SLN|0006||A~
+SAC|C||EU|GEN001|37||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|346290837|INTERVAL BILLED~
+REF|AH|3117916889~
+SLN|0001||A~
+SAC|C||EU|TPI001|936||||||||||ENERGY CHARGE (206.05kWh X .0454259)~
+SLN|0002||A~
+SAC|C||EU|TPI001|16||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|68||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|65||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|09||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|123||||||||||Balancing Energy~
+TDS|473~
+SAC|C||EU|PRB001|3534||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-7068||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2790||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1217||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|473||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|124|0002~
+ST|810|0003~
+BIG|20240304|200092437717|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069141. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $0.03 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117222464~
+N1|BT|ALTAFIBER|91|910117222464~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117222464~
+N3|8288 KINGSMERE CT~
+N4|CINCINNATI|OH|45231-6006|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069141~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069141~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-1.6~
+PAM|99|15.445|KH|||MO|MRR|20230201~
+PAM|99|16.031|KH|||MO|MRR|20230301~
+PAM|99|15.402|KH|||MO|MRR|20230401~
+PAM|99|16.7|KH|||MO|MRR|20230501~
+PAM|99|15.376|KH|||MO|MRR|20230601~
+PAM|99|14.804|KH|||MO|MRR|20230701~
+PAM|99|16.92|KH|||MO|MRR|20230801~
+PAM|99|14.901|KH|||MO|MRR|20230901~
+PAM|99|16.61|KH|||MO|MRR|20231001~
+PAM|99|16.344|KH|||MO|MRR|20231101~
+PAM|99|15.332|KH|||MO|MRR|20231201~
+PAM|99|15.755|KH|||MO|MRR|20240101~
+PAM|99|0|KH|||MO|MRR|20240201~
+PAM|99|174.175|KH|||PM|MRR|20240202~
+PAM|99|14.515|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117222464Z109952302|Choice Service ID~
+REF|MG|108139133|INTERVAL BILLED~
+REF|AH|3121746091~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|0|||||Billed kWh~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746091~
+REF|MG|108139133|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|DIS001|526||||||||||Delivery Riders~
+SLN|0003||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108139133|INTERVAL BILLED~
+REF|AH|3121746091~
+SLN|0001||A~
+SAC|C||EU|TPI001|00||||||||||Contract Charges~
+SLN|0002||A~
+SAC|C||EU|TPI001|03||||||||||Market Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|00||||||||||Transaction Line Losses~
+SLN|0004||A~
+SAC|C||EU|TPI001|00||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|00||||||||||Balancing Energy~
+TDS|-160~
+SAC|C||EU|PRB001|2042||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-4084||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|1879||||||||||Electric Delivery~
+SAC|N||EU|ENC000|03||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-160||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|102|0003~
+ST|810|0004~
+BIG|20240304|200092437718|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Firm Transportation Service - Small (FT-S).~
+NTE|ADD|Your current generation rate with ENGIE Power & Gas is PY183. Your ENGIE Power &~
+NTE|ADD|Gas account~
+NTE|ADD|number is 910117223738Z109616834. If you have any questions about your gas suppl~
+NTE|ADD|ier's~
+NTE|ADD|service or charges, contact ENGIE Power & Gas at 855.327.6937 or write to them a~
+NTE|ADD|t 920 RAILROAD AVE,~
+NTE|ADD|WOODMERE NY 11598.~
+NTE|ADD|Price to compare} If you're considering using a different natural gas~
+NTE|ADD|supplier, their rate would have to be lower than $0.58390000 per CCF for you~
+NTE|ADD|to save money. Visit energychoice.ohio.gov to compare rates of all~
+NTE|ADD|natural gas suppliers or contact Duke Energy for a written explanation.~
+NTE|ADD|This month's Gas Cost Recovery (GCR) charge for customers purchasing~
+NTE|ADD|their natural gas from Duke Energy is $0.4888923 per CCF, which includes~
+NTE|ADD|a base GCR of $0.4661000 and Ohio excise tax of $0.0227923.~
+NTE|ADD|When shopping for a natural gas supplier, it may be useful to compare~
+NTE|ADD|supplier offers with the standard service offer (SSO) rate available to~
+NTE|ADD|eligible customers, which varies monthly based on the market price of~
+NTE|ADD|natural gas. Price represents one feature of any offer; there may be~
+NTE|ADD|other features which you consider of value. More information about SSO~
+NTE|ADD|and other suppliers' offers is available at energychoice.ohio.gov or by~
+NTE|ADD|contacting the PUCO.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your current rate is Service at Secondary Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069015. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $3282.16 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117223738~
+N1|BT|ALTAFIBER|91|910117223738~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117223738~
+N3|10823 MILL RD~
+N4|CINCINNATI|OH|45240-3541|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|ENGIE Power & Gas|91|910117223738Z109616834~
+N3|ENGIE POWER & GAS~
+N4|WOODMERE|NY|11598|US~
+REF|11|910117223738Z109616834~
+PER|IC||TE|855.327.6937~
+ITD||||||20240325~
+DTM|186|20240130~
+DTM|187|20240228~
+BAL|M|PB|6466.59~
+PAM|99|76166.72|KH|||MO|MRR|20230201~
+PAM|99|73186.88|KH|||MO|MRR|20230301~
+PAM|99|75200|KH|||MO|MRR|20230401~
+PAM|99|78907.873|KH|||MO|MRR|20230501~
+PAM|99|94187.84|KH|||MO|MRR|20230601~
+PAM|99|82976|KH|||MO|MRR|20230701~
+PAM|99|96147.448|KH|||MO|MRR|20230801~
+PAM|99|82476.48|KH|||MO|MRR|20230901~
+PAM|99|80648|KH|||MO|MRR|20231001~
+PAM|99|80024.8|KH|||MO|MRR|20231101~
+PAM|99|68845.12|KH|||MO|MRR|20231201~
+PAM|99|72919.52|KH|||MO|MRR|20240101~
+PAM|99|69396.8|KH|||MO|MRR|20240201~
+PAM|99|954916.761|KH|||PM|MRR|20240202~
+PAM|99|79576.397|KH|||AM|MRR|20240202~
+PAM|99|16|HH|||MO|MRR|20230201~
+PAM|99|16|HH|||MO|MRR|20230301~
+PAM|99|16|HH|||MO|MRR|20230401~
+PAM|99|16|HH|||MO|MRR|20230501~
+PAM|99|16|HH|||MO|MRR|20230601~
+PAM|99|16|HH|||MO|MRR|20230701~
+PAM|99|16|HH|||MO|MRR|20230801~
+PAM|99|3|HH|||MO|MRR|20230901~
+PAM|99|0|HH|||MO|MRR|20231001~
+PAM|99|937|HH|||MO|MRR|20231101~
+PAM|99|634|HH|||MO|MRR|20231201~
+PAM|99|1006|HH|||MO|MRR|20240101~
+PAM|99|549|HH|||MO|MRR|20240201~
+PAM|99|3225|HH|||PM|MRR|20240202~
+PAM|99|268.75|HH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|20.56|||||A|||Sales Tax~
+TXI|CP|7.33|||||A|||County Sales Tax~
+IT1|0002|||||SV|GAS|C3|METER|BS|CURRENT CHARGES~
+MEA|AA|PU|1|HH|46447|46996~
+REF|MG|365458~
+REF|BE|910117223738Z109616834|Choice Service ID~
+REF|AH|3121749539~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||HH|549|||||Gas Used~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||HH|549|||||Billed CCF~
+IT1|0003|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117223738Z109699167|Choice Service ID~
+REF|MG|341339597|INTERVAL BILLED~
+REF|AH|3121729946~
+DTM|150|20240130~
+DTM|151|20240227~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|69396.8|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|69396.8|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|18359.68|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|51037.12|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K4|125.579|||||Actual kVA~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|121.6|||||Actual Demand-kW~
+SLN|0007||A~
+SAC|N||EU|DMD000|||||K1|182.24|||||Billed Demand-kW~
+SLN|0008||A~
+SAC|N||EU|DMD000|||||K1|121.6|||||Billed Demand-kW On Peak~
+SLN|0009||A~
+SAC|N||EU|DMD000|||||K4|125.579|||||Billed Demand-kVA~
+SLN|0010||A~
+SAC|N||EU|DMD000|||||K1|96.83|||||Power Factor~
+IT1|0004|||||SV|GAS|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Firm Transportation Service - Small (FT-S)~
+REF|AH|3121749539~
+REF|MG|365458~
+SLN|0001||A~
+SAC|C||EU|MSC000|13246||||||||||Fixed Delivery Service Charge~
+SLN|0002||A~
+SAC|C||EU|DIS002|7439|||.135502|HH|549|||||Usage-Based Charge~
+SLN|0003||A~
+SAC|C||EU|DIS002|2995||||||||||Gas Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|SUR000|72|||.00131148|HH|549|||||Applicable Surcharge~
+IT1|0005|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Service at Secondary Distribution Voltage (DS)~
+REF|AH|3121729946~
+REF|MG|341339597|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|4600||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|DMD001|126981|||6.9678|K1|182.24|||||Distribution-Demand Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|124406||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0006|||||SV|GAS|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||ENGIE Power & Gas~
+REF|RB|PY183|ENGIE Power & Gas~
+REF|AH|3121749539~
+REF|MG|365458~
+SLN|0001||A~
+SAC|C||EU|TPI001|35762|||.6514|HH|549|||||Gas Supplier Energy Charge~
+IT1|0007|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|341339597|INTERVAL BILLED~
+REF|AH|3121729946~
+SLN|0001||A~
+SAC|C||EU|TPI001|4303||||||||||Contract Charges~
+SLN|0002||A~
+SAC|C||EU|TPI001|252160||||||||||ENERGY CHARGE (55517.44kWh X .04542)~
+SLN|0003||A~
+SAC|C||EU|TPI001|18870||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|17610||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|2303||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|32970||||||||||Balancing Energy~
+TDS|646659~
+TXI|ZZ|27.89|||||O|||Taxes~
+SAC|C||EU|PRB001|662609||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-662609||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|23752||||||||||Gas Delivery~
+SAC|N||EU|ENC000|256140||||||||||Electric Delivery~
+SAC|N||EU|ENC000|328216||||||||||Electric Generation Supply~
+SAC|N||EU|ENC000|35762||||||||||Gas Generation Supply~
+SAC|N||EU|MSC000|646659||||||||||Total Amount Due Mar 25~
+CTT|7~
+SE|200|0004~
+ST|810|0005~
+BIG|20240304|200092437719|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069918. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $26.97 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117225855~
+N1|BT|ALTAFIBER|91|910117225855~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117225855~
+N3|6021 SNOW HILL DR~
+N4|HAMILTON|OH|45011-5215|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069918~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069918~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-2.58~
+PAM|99|601.609|KH|||MO|MRR|20230201~
+PAM|99|623.007|KH|||MO|MRR|20230301~
+PAM|99|617.576|KH|||MO|MRR|20230401~
+PAM|99|688.18|KH|||MO|MRR|20230501~
+PAM|99|682.563|KH|||MO|MRR|20230601~
+PAM|99|693.116|KH|||MO|MRR|20230701~
+PAM|99|785.867|KH|||MO|MRR|20230801~
+PAM|99|658.518|KH|||MO|MRR|20230901~
+PAM|99|670.368|KH|||MO|MRR|20231001~
+PAM|99|613.146|KH|||MO|MRR|20231101~
+PAM|99|564.49|KH|||MO|MRR|20231201~
+PAM|99|623.45|KH|||MO|MRR|20240101~
+PAM|99|569.79|KH|||MO|MRR|20240201~
+PAM|99|7790.071|KH|||PM|MRR|20240202~
+PAM|99|649.173|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117225855Z109110907|Choice Service ID~
+REF|MG|108111726|INTERVAL BILLED~
+REF|AH|3121747712~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|569.79|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|569.79|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|148.386|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|421.404|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.968|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.928|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121747712~
+REF|MG|108111726|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|2784|||.048863|KH|569.79|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1955||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108111726|INTERVAL BILLED~
+REF|AH|3121747712~
+SLN|0001||A~
+SAC|C||EU|TPI001|2070||||||||||ENERGY CHARGE (455.83kWh X .0454117)~
+SLN|0002||A~
+SAC|C||EU|TPI001|35||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|158||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|145||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|19||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|270||||||||||Balancing Energy~
+TDS|-258~
+SAC|C||EU|PRB001|9047||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-18094||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6092||||||||||Electric Delivery~
+SAC|N||EU|ENC000|2697||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-258||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0005~
+ST|810|0006~
+BIG|20240304|200092437720|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069761. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $11.15 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117258002~
+N1|BT|ALTAFIBER|91|910117258002~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117258002~
+N3|6263 LAKEWOOD DR~
+N4|HAMILTON|OH|45011-8153|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069761~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069761~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-2.67~
+PAM|99|244.411|KH|||MO|MRR|20230201~
+PAM|99|248.755|KH|||MO|MRR|20230301~
+PAM|99|235.806|KH|||MO|MRR|20230401~
+PAM|99|261.706|KH|||MO|MRR|20230501~
+PAM|99|248.725|KH|||MO|MRR|20230601~
+PAM|99|244.436|KH|||MO|MRR|20230701~
+PAM|99|276.207|KH|||MO|MRR|20230801~
+PAM|99|237.597|KH|||MO|MRR|20230901~
+PAM|99|255.828|KH|||MO|MRR|20231001~
+PAM|99|250.956|KH|||MO|MRR|20231101~
+PAM|99|235.416|KH|||MO|MRR|20231201~
+PAM|99|272.86|KH|||MO|MRR|20240101~
+PAM|99|236.181|KH|||MO|MRR|20240201~
+PAM|99|3004.473|KH|||PM|MRR|20240202~
+PAM|99|250.373|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117258002Z109427436|Choice Service ID~
+REF|MG|108177679|INTERVAL BILLED~
+REF|AH|3121749660~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|236.181|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|236.181|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|59.54|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|176.641|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.428|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.392|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121749660~
+REF|MG|108177679|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1154|||.048863|KH|236.181|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1117||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108177679|INTERVAL BILLED~
+REF|AH|3121749660~
+SLN|0001||A~
+SAC|C||EU|TPI001|858||||||||||ENERGY CHARGE (188.94kWh X .0454112)~
+SLN|0002||A~
+SAC|C||EU|TPI001|15||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|62||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|60||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|08||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|112||||||||||Balancing Energy~
+TDS|-267~
+SAC|C||EU|PRB001|5006||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-10012||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|3624||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1115||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-267||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0006~
+ST|810|0007~
+BIG|20240304|200092437721|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069697. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $26.53 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117258854~
+N1|BT|ALTAFIBER|91|910117258854~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117258854~
+N3|534 COMPTON RD~
+N4|CINCINNATI|OH|45231-5006|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069697~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069697~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|23.68~
+PAM|99|563.628|KH|||MO|MRR|20230201~
+PAM|99|582.196|KH|||MO|MRR|20230301~
+PAM|99|581.438|KH|||MO|MRR|20230401~
+PAM|99|670.557|KH|||MO|MRR|20230501~
+PAM|99|664.144|KH|||MO|MRR|20230601~
+PAM|99|676.886|KH|||MO|MRR|20230701~
+PAM|99|767.895|KH|||MO|MRR|20230801~
+PAM|99|648.095|KH|||MO|MRR|20230901~
+PAM|99|664.56|KH|||MO|MRR|20231001~
+PAM|99|611.167|KH|||MO|MRR|20231101~
+PAM|99|560.535|KH|||MO|MRR|20231201~
+PAM|99|615.296|KH|||MO|MRR|20240101~
+PAM|99|560.916|KH|||MO|MRR|20240201~
+PAM|99|7603.685|KH|||PM|MRR|20240202~
+PAM|99|633.64|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117258854Z110000312|Choice Service ID~
+REF|MG|328186974|INTERVAL BILLED~
+REF|AH|3121746576~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|560.916|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|560.916|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|145.649|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|415.267|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.86|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.844|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746576~
+REF|MG|328186974|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|2741|||.048863|KH|560.916|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1932||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|328186974|INTERVAL BILLED~
+REF|AH|3121746576~
+SLN|0001||A~
+SAC|C||EU|TPI001|2038||||||||||ENERGY CHARGE (448.73kWh X .0454171)~
+SLN|0002||A~
+SAC|C||EU|TPI001|35||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|153||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|142||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|19||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|266||||||||||Balancing Energy~
+TDS|2368~
+SAC|C||EU|PRB001|6311||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-12622||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6026||||||||||Electric Delivery~
+SAC|N||EU|ENC000|2653||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|2368||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0007~
+ST|810|0008~
+BIG|20240304|200092437737|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15068976. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $47.53 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117226351~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117226351~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117226351~
+N3|2808 READING RD~
+N4|CINCINNATI|OH|45206-1117|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15068976~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15068976~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|7.46~
+PAM|99|1001.32|KH|||MO|MRR|20230201~
+PAM|99|1044.465|KH|||MO|MRR|20230301~
+PAM|99|1030.361|KH|||MO|MRR|20230401~
+PAM|99|1151.599|KH|||MO|MRR|20230501~
+PAM|99|1085.496|KH|||MO|MRR|20230601~
+PAM|99|1059.58|KH|||MO|MRR|20230701~
+PAM|99|1202.754|KH|||MO|MRR|20230801~
+PAM|99|1058.019|KH|||MO|MRR|20230901~
+PAM|99|1157.647|KH|||MO|MRR|20231001~
+PAM|99|1108.275|KH|||MO|MRR|20231101~
+PAM|99|1021.428|KH|||MO|MRR|20231201~
+PAM|99|1091.931|KH|||MO|MRR|20240101~
+PAM|99|1024.904|KH|||MO|MRR|20240201~
+PAM|99|13036.459|KH|||PM|MRR|20240202~
+PAM|99|1086.372|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117226351Z110041046|Choice Service ID~
+REF|MG|108137897|INTERVAL BILLED~
+REF|AH|3118205110~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|1024.904|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|1024.904|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|283.041|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|741.863|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.848|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|1.776|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118205110~
+REF|MG|108137897|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|5008|||.048863|KH|1024.904|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|3094||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108137897|INTERVAL BILLED~
+REF|AH|3118205110~
+SLN|0001||A~
+SAC|C||EU|TPI001|3724||||||||||ENERGY CHARGE (819.92kWh X .0454191)~
+SLN|0002||A~
+SAC|C||EU|TPI001|64||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|183||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|260||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|34||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|488||||||||||Balancing Energy~
+TDS|746~
+SAC|C||EU|PRB001|13462||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-26924||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|9455||||||||||Electric Delivery~
+SAC|N||EU|ENC000|4753||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|746||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0008~
+ST|810|0009~
+BIG|20240304|200092437738|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069892. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $18.24 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117227716~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117227716~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117227716~
+N3|9921 BAUGHMAN RD~
+N4|HARRISON|OH|45030-1788|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069892~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069892~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-1.6~
+PAM|99|549.646|KH|||MO|MRR|20230201~
+PAM|99|568|KH|||MO|MRR|20230301~
+PAM|99|567.423|KH|||MO|MRR|20230401~
+PAM|99|441.137|KH|||MO|MRR|20230501~
+PAM|99|371.542|KH|||MO|MRR|20230601~
+PAM|99|343.084|KH|||MO|MRR|20230701~
+PAM|99|396.694|KH|||MO|MRR|20230801~
+PAM|99|340.933|KH|||MO|MRR|20230901~
+PAM|99|386.195|KH|||MO|MRR|20231001~
+PAM|99|412.399|KH|||MO|MRR|20231101~
+PAM|99|357.136|KH|||MO|MRR|20231201~
+PAM|99|416.02|KH|||MO|MRR|20240101~
+PAM|99|377.88|KH|||MO|MRR|20240201~
+PAM|99|4978.443|KH|||PM|MRR|20240202~
+PAM|99|414.87|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117227716Z110278724|Choice Service ID~
+REF|MG|108211674|INTERVAL BILLED~
+REF|AH|3118185741~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|377.88|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|377.88|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|100.638|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|277.242|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.772|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.752|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118185741~
+REF|MG|108211674|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1846|||.048863|KH|377.88|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1472||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108211674|INTERVAL BILLED~
+REF|AH|3118185741~
+SLN|0001||A~
+SAC|C||EU|TPI001|1373||||||||||ENERGY CHARGE (302.3kWh X .0454185)~
+SLN|0002||A~
+SAC|C||EU|TPI001|23||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|139||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|96||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|13||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|180||||||||||Balancing Energy~
+TDS|-160~
+SAC|C||EU|PRB001|6655||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-13310||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|4671||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1824||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-160||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0009~
+ST|810|0010~
+BIG|20240304|200092437739|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069842. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $16.41 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117229031~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117229031~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117229031~
+N3|2563 EUCLID AVE~
+N4|CINCINNATI|OH|45219-2153|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069842~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069842~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|1.04~
+PAM|99|320.991|KH|||MO|MRR|20230201~
+PAM|99|309.935|KH|||MO|MRR|20230301~
+PAM|99|313.208|KH|||MO|MRR|20230401~
+PAM|99|318.302|KH|||MO|MRR|20230501~
+PAM|99|299.277|KH|||MO|MRR|20230601~
+PAM|99|282.848|KH|||MO|MRR|20230701~
+PAM|99|339.399|KH|||MO|MRR|20230801~
+PAM|99|323.139|KH|||MO|MRR|20230901~
+PAM|99|355.032|KH|||MO|MRR|20231001~
+PAM|99|333.615|KH|||MO|MRR|20231101~
+PAM|99|289.123|KH|||MO|MRR|20231201~
+PAM|99|351.1|KH|||MO|MRR|20240101~
+PAM|99|337.354|KH|||MO|MRR|20240201~
+PAM|99|3852.332|KH|||PM|MRR|20240202~
+PAM|99|321.028|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117229031Z109010776|Choice Service ID~
+REF|MG|108214090|INTERVAL BILLED~
+REF|AH|3118981361~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|337.354|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|337.354|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|93.045|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|244.309|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.972|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.972|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118981361~
+REF|MG|108214090|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1648|||.048863|KH|337.354|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1371||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108214090|INTERVAL BILLED~
+REF|AH|3118981361~
+SLN|0001||A~
+SAC|C||EU|TPI001|1226||||||||||ENERGY CHARGE (269.88kWh X .0454276)~
+SLN|0002||A~
+SAC|C||EU|TPI001|21||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|137||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|86||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|11||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|160||||||||||Balancing Energy~
+TDS|104~
+SAC|C||EU|PRB001|5909||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-11818||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|4372||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1641||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|104||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0010~
+ST|810|0011~
+BIG|20240304|200092437740|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069823. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $45.71 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117229809~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117229809~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117229809~
+N3|322 OAK ST~
+N4|CINCINNATI|OH|45219-2509|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069823~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069823~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|3.83~
+PAM|99|1016.243|KH|||MO|MRR|20230201~
+PAM|99|1009.87|KH|||MO|MRR|20230301~
+PAM|99|1012.857|KH|||MO|MRR|20230401~
+PAM|99|1115.265|KH|||MO|MRR|20230501~
+PAM|99|1054.603|KH|||MO|MRR|20230601~
+PAM|99|1022.067|KH|||MO|MRR|20230701~
+PAM|99|1182.254|KH|||MO|MRR|20230801~
+PAM|99|1036.042|KH|||MO|MRR|20230901~
+PAM|99|1132.182|KH|||MO|MRR|20231001~
+PAM|99|1086.392|KH|||MO|MRR|20231101~
+PAM|99|989.156|KH|||MO|MRR|20231201~
+PAM|99|1084.519|KH|||MO|MRR|20240101~
+PAM|99|980.605|KH|||MO|MRR|20240201~
+PAM|99|12705.812|KH|||PM|MRR|20240202~
+PAM|99|1058.818|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117229809Z109183001|Choice Service ID~
+REF|MG|332568688|INTERVAL BILLED~
+REF|AH|3118209313~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|980.605|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|980.605|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|267.396|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|713.209|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.932|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|1.836|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118209313~
+REF|MG|332568688|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|4792|||.048863|KH|980.605|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|2982||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|332568688|INTERVAL BILLED~
+REF|AH|3118209313~
+SLN|0001||A~
+SAC|C||EU|TPI001|3563||||||||||ENERGY CHARGE (784.48kWh X .0454186)~
+SLN|0002||A~
+SAC|C||EU|TPI001|61||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|201||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|249||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|32||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|465||||||||||Balancing Energy~
+TDS|383~
+SAC|C||EU|PRB001|13315||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-26630||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|9127||||||||||Electric Delivery~
+SAC|N||EU|ENC000|4571||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|383||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0011~
+ST|810|0012~
+BIG|20240304|200732444724|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069236. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $29.39 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910118474325~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910118474325~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910118474325~
+N3|8444 WINTON RD~
+N4|CINCINNATI|OH|45231-4927|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069236~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069236~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-5.3~
+PAM|99|467.435|KH|||MO|MRR|20230201~
+PAM|99|477.023|KH|||MO|MRR|20230301~
+PAM|99|460.376|KH|||MO|MRR|20230401~
+PAM|99|515.097|KH|||MO|MRR|20230501~
+PAM|99|482.918|KH|||MO|MRR|20230601~
+PAM|99|512.598|KH|||MO|MRR|20230701~
+PAM|99|744.714|KH|||MO|MRR|20230801~
+PAM|99|649.293|KH|||MO|MRR|20230901~
+PAM|99|732.447|KH|||MO|MRR|20231001~
+PAM|99|728.899|KH|||MO|MRR|20231101~
+PAM|99|652.064|KH|||MO|MRR|20231201~
+PAM|99|707.705|KH|||MO|MRR|20240101~
+PAM|99|632.09|KH|||MO|MRR|20240201~
+PAM|99|7295.224|KH|||PM|MRR|20240202~
+PAM|99|607.935|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910118474325Z109542520|Choice Service ID~
+REF|MG|320731015|INTERVAL BILLED~
+REF|AH|3118003354~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|632.09|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|632.09|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|186.346|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|445.744|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.428|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|1.428|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118003354~
+REF|MG|320731015|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|3089|||.048863|KH|632.09|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|2110||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|320731015|INTERVAL BILLED~
+REF|AH|3118003354~
+SLN|0001||A~
+SAC|C||EU|TPI001|2297||||||||||ENERGY CHARGE (505.67kWh X .0454249)~
+SLN|0002||A~
+SAC|C||EU|TPI001|39||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|120||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|160||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|21||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|302||||||||||Balancing Energy~
+TDS|-530~
+SAC|C||EU|PRB001|10021||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-20042||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6552||||||||||Electric Delivery~
+SAC|N||EU|ENC000|2939||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-530||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0012~
+ST|810|0013~
+BIG|20240304|200722448152|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069907. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $8.67 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117012466~
+N1|BT|ALTAFIBER|91|910117012466~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117012466~
+N3|881 REYNARD AVE APT A~
+N4|CINCINNATI|OH|45231-4932|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069907~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069907~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-.82~
+PAM|99|185.909|KH|||MO|MRR|20230201~
+PAM|99|191.511|KH|||MO|MRR|20230301~
+PAM|99|186.139|KH|||MO|MRR|20230401~
+PAM|99|205.821|KH|||MO|MRR|20230501~
+PAM|99|193.414|KH|||MO|MRR|20230601~
+PAM|99|187.56|KH|||MO|MRR|20230701~
+PAM|99|212.983|KH|||MO|MRR|20230801~
+PAM|99|186.303|KH|||MO|MRR|20230901~
+PAM|99|204.135|KH|||MO|MRR|20231001~
+PAM|99|197.081|KH|||MO|MRR|20231101~
+PAM|99|182.855|KH|||MO|MRR|20231201~
+PAM|99|201.741|KH|||MO|MRR|20240101~
+PAM|99|183.717|KH|||MO|MRR|20240201~
+PAM|99|2333.26|KH|||PM|MRR|20240202~
+PAM|99|194.438|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117012466Z110553538|Choice Service ID~
+REF|MG|108129872|INTERVAL BILLED~
+REF|AH|3119402617~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|183.717|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|183.717|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|47.587|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|136.13|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.268|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.268|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3119402617~
+REF|MG|108129872|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|898|||.048863|KH|183.717|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|986||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108129872|INTERVAL BILLED~
+REF|AH|3119402617~
+SLN|0001||A~
+SAC|C||EU|TPI001|668||||||||||ENERGY CHARGE (146.97kWh X .0454515)~
+SLN|0002||A~
+SAC|C||EU|TPI001|11||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|48||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|47||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|06||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|87||||||||||Balancing Energy~
+TDS|-82~
+SAC|C||EU|PRB001|4186||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-8372||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|3237||||||||||Electric Delivery~
+SAC|N||EU|ENC000|867||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-82||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0013~
+ST|810|0014~
+BIG|20240304|200112441822|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069750. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $57.82 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117095431~
+N1|BT|ALTAFIBER|91|910117095431~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117095431~
+N3|10397 SHORT RD~
+N4|HARRISON|OH|45030-1850|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069750~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069750~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|85.24~
+PAM|99|1235.304|KH|||MO|MRR|20230201~
+PAM|99|1282.351|KH|||MO|MRR|20230301~
+PAM|99|1335.056|KH|||MO|MRR|20230401~
+PAM|99|1542.192|KH|||MO|MRR|20230501~
+PAM|99|1509.007|KH|||MO|MRR|20230601~
+PAM|99|1542.48|KH|||MO|MRR|20230701~
+PAM|99|1766.872|KH|||MO|MRR|20230801~
+PAM|99|1463.318|KH|||MO|MRR|20230901~
+PAM|99|1497.385|KH|||MO|MRR|20231001~
+PAM|99|1342.87|KH|||MO|MRR|20231101~
+PAM|99|1224.335|KH|||MO|MRR|20231201~
+PAM|99|1308.766|KH|||MO|MRR|20240101~
+PAM|99|1223.913|KH|||MO|MRR|20240201~
+PAM|99|17038.545|KH|||PM|MRR|20240202~
+PAM|99|1419.879|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117095431Z109901539|Choice Service ID~
+REF|MG|108277054|INTERVAL BILLED~
+REF|AH|3121748233~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|1223.913|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|1223.913|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|322.86|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|901.053|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|3.076|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|2.904|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121748233~
+REF|MG|108277054|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|5980|||.048863|KH|1223.913|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|3591||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108277054|INTERVAL BILLED~
+REF|AH|3121748233~
+SLN|0001||A~
+SAC|C||EU|TPI001|4447||||||||||ENERGY CHARGE (979.13kWh X .0454179)~
+SLN|0002||A~
+SAC|C||EU|TPI001|76||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|330||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|311||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|40||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|578||||||||||Balancing Energy~
+TDS|8524~
+SAC|C||EU|PRB001|8182||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-16364||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|10924||||||||||Electric Delivery~
+SAC|N||EU|ENC000|5782||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|8524||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0014~
+ST|810|0015~
+BIG|20240304|200122446618|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Service at Secondary Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069905. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $514.85 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117419514~
+N1|BT|ALTAFIBER|91|910117419514~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117419514~
+N3|20 MAIN W~
+N4|NEWTONSVILLE|OH|45158|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069905~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069905~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-12.79~
+PAM|99|11667.75|KH|||MO|MRR|20230201~
+PAM|99|9503.701|KH|||MO|MRR|20230301~
+PAM|99|13128.096|KH|||MO|MRR|20230401~
+PAM|99|16109.523|KH|||MO|MRR|20230501~
+PAM|99|16234.356|KH|||MO|MRR|20230601~
+PAM|99|16914.75|KH|||MO|MRR|20230701~
+PAM|99|18409.437|KH|||MO|MRR|20230801~
+PAM|99|14982.242|KH|||MO|MRR|20230901~
+PAM|99|14333.087|KH|||MO|MRR|20231001~
+PAM|99|12314.015|KH|||MO|MRR|20231101~
+PAM|99|10975.523|KH|||MO|MRR|20231201~
+PAM|99|12489.455|KH|||MO|MRR|20240101~
+PAM|99|10966.391|KH|||MO|MRR|20240201~
+PAM|99|166360.576|KH|||PM|MRR|20240202~
+PAM|99|13863.381|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117419514Z110103470|Choice Service ID~
+REF|MG|108170950|INTERVAL BILLED~
+REF|AH|3118228250~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|10966.391|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|10966.391|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|2852.504|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|8113.887|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K4|23.169|||||Actual kVA~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|23.064|||||Actual Demand-kW~
+SLN|0007||A~
+SAC|N||EU|DMD000|||||K1|30.406|||||Billed Demand-kW~
+SLN|0008||A~
+SAC|N||EU|DMD000|||||K1|23.064|||||Billed Demand-kW On Peak~
+SLN|0009||A~
+SAC|N||EU|DMD000|||||K4|23.169|||||Billed Demand-kVA~
+SLN|0010||A~
+SAC|N||EU|DMD000|||||K1|99.55|||||Power Factor~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Service at Secondary Distribution Voltage (DS)~
+REF|AH|3118228250~
+REF|MG|108170950|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|4600||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|DMD001|21186|||6.9678|K1|30.4062|||||Distribution-Demand Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|21515||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108170950|INTERVAL BILLED~
+REF|AH|3118228250~
+SLN|0001||A~
+SAC|C||EU|TPI001|680||||||||||Contract Charges~
+SLN|0002||A~
+SAC|C||EU|TPI001|39847||||||||||ENERGY CHARGE (8773.11kWh X .0454195)~
+SLN|0003||A~
+SAC|C||EU|TPI001|2626||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|2783||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|362||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|5187||||||||||Balancing Energy~
+TDS|-1279~
+SAC|C||EU|PRB001|100218||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-200436||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|47454||||||||||Electric Delivery~
+SAC|N||EU|ENC000|51485||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-1279||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|124|0015~
+ST|810|0016~
+BIG|20240304|200122446619|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069862. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $28.59 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117419663~
+N1|BT|ALTAFIBER|91|910117419663~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117419663~
+N3|6710 LIBERTY FAIRFIELD RD~
+N4|HAMILTON|OH|45011-5453|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069862~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069862~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|92.14~
+PAM|99|586.008|KH|||MO|MRR|20230201~
+PAM|99|604.761|KH|||MO|MRR|20230301~
+PAM|99|600.197|KH|||MO|MRR|20230401~
+PAM|99|724.59|KH|||MO|MRR|20230501~
+PAM|99|724.984|KH|||MO|MRR|20230601~
+PAM|99|710.849|KH|||MO|MRR|20230701~
+PAM|99|820.934|KH|||MO|MRR|20230801~
+PAM|99|701.634|KH|||MO|MRR|20230901~
+PAM|99|719.365|KH|||MO|MRR|20231001~
+PAM|99|652.333|KH|||MO|MRR|20231101~
+PAM|99|597.604|KH|||MO|MRR|20231201~
+PAM|99|642.731|KH|||MO|MRR|20240101~
+PAM|99|605.64|KH|||MO|MRR|20240201~
+PAM|99|8105.622|KH|||PM|MRR|20240202~
+PAM|99|675.469|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117419663Z109006481|Choice Service ID~
+REF|MG|108095712|INTERVAL BILLED~
+REF|AH|3118189321~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|605.64|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|605.64|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|159.589|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|446.051|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.04|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|1.032|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118189321~
+REF|MG|108095712|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|2959|||.048863|KH|605.64|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|2043||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108095712|INTERVAL BILLED~
+REF|AH|3118189321~
+SLN|0001||A~
+SAC|C||EU|TPI001|2201||||||||||ENERGY CHARGE (484.51kWh X .0454273)~
+SLN|0002||A~
+SAC|C||EU|TPI001|38||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|160||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|154||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|20||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|286||||||||||Balancing Energy~
+TDS|9214~
+SAC|C||EU|PRB001|6384||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-6384||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6355||||||||||Electric Delivery~
+SAC|N||EU|ENC000|2859||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|9214||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0016~
+ST|810|0017~
+BIG|20240304|200122446620|20240304|UTILITY|||FB|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069837. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $1.07 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117420418~
+N1|BT|ALTAFIBER|91|910117420418~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117420418~
+N3|DIR NUMBER NINE RD SWC~
+N4|BLANCHESTER|OH|45107|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069837~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069837~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240226~
+BAL|M|PB|21.46~
+PAM|99|111.27|KH|||MO|MRR|20230301~
+PAM|99|106.832|KH|||MO|MRR|20230401~
+PAM|99|117.571|KH|||MO|MRR|20230501~
+PAM|99|109.33|KH|||MO|MRR|20230601~
+PAM|99|106.709|KH|||MO|MRR|20230701~
+PAM|99|122.023|KH|||MO|MRR|20230801~
+PAM|99|105.441|KH|||MO|MRR|20230901~
+PAM|99|87.111|KH|||MO|MRR|20231001~
+PAM|99|53.447|KH|||MO|MRR|20231101~
+PAM|99|50.303|KH|||MO|MRR|20231201~
+PAM|99|68.73|KH|||MO|MRR|20240101~
+PAM|99|0|KH|||MO|MRR|20240201~
+PAM|99|21.63|KH|||MO|MRR|20240301~
+PAM|99|949.127|KH|||PM|MRR|20240303~
+PAM|99|79.094|KH|||AM|MRR|20240303~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||27|DA~
+REF|BE|910117420418Z109715354|Choice Service ID~
+REF|MG|320474641|INTERVAL BILLED~
+REF|AH|3121747638~
+DTM|150|20240131~
+DTM|151|20240226~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|21.63|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|21.63|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|4.12|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|17.51|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.244|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.188|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121747638~
+REF|MG|320474641|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|106|||.048863|KH|21.63|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|580||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|320474641|INTERVAL BILLED~
+REF|AH|3121747638~
+SLN|0001||A~
+SAC|C||EU|TPI001|01||||||||||Contract Charges~
+SLN|0002||A~
+SAC|C||EU|TPI001|79||||||||||ENERGY CHARGE (17.3kWh X .0456647)~
+SLN|0003||A~
+SAC|C||EU|TPI001|10||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|05||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|01||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|11||||||||||Balancing Energy~
+TDS|2146~
+SAC|C||EU|PRB001|1561||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-1561||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2039||||||||||Electric Delivery~
+SAC|N||EU|ENC000|107||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|2146||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0017~
+ST|810|0018~
+BIG|20240304|200952440145|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069663. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $21.44 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117260163~
+N1|BT|ALTAFIBER|91|910117260163~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117260163~
+N3|2100 GARDNER RD~
+N4|HAMILTON|OH|45013-9321|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069663~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069663~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|13.23~
+PAM|99|451.054|KH|||MO|MRR|20230201~
+PAM|99|459.4|KH|||MO|MRR|20230301~
+PAM|99|450.184|KH|||MO|MRR|20230401~
+PAM|99|512.263|KH|||MO|MRR|20230501~
+PAM|99|562.71|KH|||MO|MRR|20230601~
+PAM|99|528.769|KH|||MO|MRR|20230701~
+PAM|99|597.086|KH|||MO|MRR|20230801~
+PAM|99|473.522|KH|||MO|MRR|20230901~
+PAM|99|478.911|KH|||MO|MRR|20231001~
+PAM|99|495.63|KH|||MO|MRR|20231101~
+PAM|99|449.248|KH|||MO|MRR|20231201~
+PAM|99|523.816|KH|||MO|MRR|20240101~
+PAM|99|453.047|KH|||MO|MRR|20240201~
+PAM|99|5984.586|KH|||PM|MRR|20240202~
+PAM|99|498.716|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117260163Z110299242|Choice Service ID~
+REF|MG|332570264|INTERVAL BILLED~
+REF|AH|3121746274~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|453.047|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|453.047|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|116.704|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|336.343|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.088|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.792|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746274~
+REF|MG|332570264|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|2214|||.048863|KH|453.047|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1660||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|332570264|INTERVAL BILLED~
+REF|AH|3121746274~
+SLN|0001||A~
+SAC|C||EU|TPI001|1646||||||||||ENERGY CHARGE (362.44kWh X .0454144)~
+SLN|0002||A~
+SAC|C||EU|TPI001|28||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|125||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|115||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|15||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|215||||||||||Balancing Energy~
+TDS|1323~
+SAC|C||EU|PRB001|6048||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-12096||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|5227||||||||||Electric Delivery~
+SAC|N||EU|ENC000|2144||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|1323||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0018~
+ST|810|0019~
+BIG|20240304|200952440146|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069408. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $6.19 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117261502~
+N1|BT|ALTAFIBER|91|910117261502~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117261502~
+N3|5755 BUCKTOWN RD~
+N4|WILLIAMSBURG|OH|45176-9513|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069408~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069408~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|8.02~
+PAM|99|132.12|KH|||MO|MRR|20230201~
+PAM|99|139.257|KH|||MO|MRR|20230301~
+PAM|99|135.736|KH|||MO|MRR|20230401~
+PAM|99|160.383|KH|||MO|MRR|20230501~
+PAM|99|164.235|KH|||MO|MRR|20230601~
+PAM|99|188.1|KH|||MO|MRR|20230701~
+PAM|99|209.845|KH|||MO|MRR|20230801~
+PAM|99|163.962|KH|||MO|MRR|20230901~
+PAM|99|152.315|KH|||MO|MRR|20231001~
+PAM|99|138.873|KH|||MO|MRR|20231101~
+PAM|99|130.24|KH|||MO|MRR|20231201~
+PAM|99|146.718|KH|||MO|MRR|20240101~
+PAM|99|131.109|KH|||MO|MRR|20240201~
+PAM|99|1860.773|KH|||PM|MRR|20240202~
+PAM|99|155.064|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117261502Z109174406|Choice Service ID~
+REF|MG|108275026|INTERVAL BILLED~
+REF|AH|3121747684~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|131.109|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|131.109|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|33.932|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|97.177|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.196|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.196|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121747684~
+REF|MG|108275026|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|641|||.048863|KH|131.109|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|853||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108275026|INTERVAL BILLED~
+REF|AH|3121747684~
+SLN|0001||A~
+SAC|C||EU|TPI001|476||||||||||ENERGY CHARGE (104.89kWh X .0453809)~
+SLN|0002||A~
+SAC|C||EU|TPI001|08||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|36||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|33||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|04||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|62||||||||||Balancing Energy~
+TDS|802~
+SAC|C||EU|PRB001|2664||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-5328||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2847||||||||||Electric Delivery~
+SAC|N||EU|ENC000|619||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|802||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0019~
+ST|810|0020~
+BIG|20240304|200952440147|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069534. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $11.56 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117294486~
+N1|BT|ALTAFIBER|91|910117294486~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117294486~
+N3|1565 STATE ROUTE 28~
+N4|LOVELAND|OH|45140-8413|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069534~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069534~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-1.09~
+PAM|99|262.66|KH|||MO|MRR|20230201~
+PAM|99|270.086|KH|||MO|MRR|20230301~
+PAM|99|260.475|KH|||MO|MRR|20230401~
+PAM|99|290.933|KH|||MO|MRR|20230501~
+PAM|99|272.889|KH|||MO|MRR|20230601~
+PAM|99|265.702|KH|||MO|MRR|20230701~
+PAM|99|297.907|KH|||MO|MRR|20230801~
+PAM|99|256.269|KH|||MO|MRR|20230901~
+PAM|99|275.229|KH|||MO|MRR|20231001~
+PAM|99|263.96|KH|||MO|MRR|20231101~
+PAM|99|246.921|KH|||MO|MRR|20231201~
+PAM|99|278.068|KH|||MO|MRR|20240101~
+PAM|99|244.884|KH|||MO|MRR|20240201~
+PAM|99|3223.323|KH|||PM|MRR|20240202~
+PAM|99|268.61|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117294486Z110304394|Choice Service ID~
+REF|MG|320054772|INTERVAL BILLED~
+REF|AH|3119041517~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|244.884|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|244.884|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|62.898|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|181.986|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.384|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.368|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3119041517~
+REF|MG|320054772|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1197|||.048863|KH|244.884|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1140||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|320054772|INTERVAL BILLED~
+REF|AH|3119041517~
+SLN|0001||A~
+SAC|C||EU|TPI001|890||||||||||ENERGY CHARGE (195.91kWh X .045429)~
+SLN|0002||A~
+SAC|C||EU|TPI001|15||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|65||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|62||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|08||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|116||||||||||Balancing Energy~
+TDS|-109~
+SAC|C||EU|PRB001|4955||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-9910||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|3690||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1156||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-109||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0020~
+ST|810|0021~
+BIG|20240304|200952440148|20240304|UTILITY|||PR|00~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069462. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $58.75 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117295023~
+N1|BT|ALTAFIBER|91|910117295023~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117295023~
+N3|729 CENTRAL PARK DR~
+N4|CINCINNATI|OH|45231|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069462~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069462~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|122.73~
+PAM|99|1343.355|KH|||MO|MRR|20230201~
+PAM|99|1395.192|KH|||MO|MRR|20230301~
+PAM|99|1524.92|KH|||MO|MRR|20230401~
+PAM|99|1871.397|KH|||MO|MRR|20230501~
+PAM|99|1922.311|KH|||MO|MRR|20230601~
+PAM|99|2153.318|KH|||MO|MRR|20230701~
+PAM|99|2374.259|KH|||MO|MRR|20230801~
+PAM|99|1783.142|KH|||MO|MRR|20230901~
+PAM|99|1680.509|KH|||MO|MRR|20231001~
+PAM|99|1438.351|KH|||MO|MRR|20231101~
+PAM|99|1265.292|KH|||MO|MRR|20231201~
+PAM|99|1342.172|KH|||MO|MRR|20240101~
+PAM|99|1233.799|KH|||MO|MRR|20240201~
+PAM|99|19984.662|KH|||PM|MRR|20240202~
+PAM|99|1665.389|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117295023Z109383280|Choice Service ID~
+REF|MG|108108778|INTERVAL BILLED~
+REF|AH|3121746071~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|1233.799|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|1233.799|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|325.784|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|908.015|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|3.768|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|3.7|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746071~
+REF|MG|108108778|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|6029|||.048863|KH|1233.799|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|3618||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108108778|INTERVAL BILLED~
+REF|AH|3121746071~
+SLN|0001||A~
+SAC|C||EU|TPI001|4483||||||||||ENERGY CHARGE (987.04kWh X .0454186)~
+SLN|0002||A~
+SAC|C||EU|TPI001|76||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|380||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|313||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|41||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|582||||||||||Balancing Energy~
+TDS|12273~
+SAC|A||EU|PRB001|-4602||||||||||Previous Amount Due~
+SAC|C||EU|PAY001|00||||||||||Payment Received~
+SAC|N||EU|ENC000|11000||||||||||Electric Delivery~
+SAC|N||EU|ENC000|5875||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|12273||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|115|0021~
+ST|810|0022~
+BIG|20240304|200952440149|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069465. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $4.17 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117295065~
+N1|BT|ALTAFIBER|91|910117295065~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117295065~
+N3|11414 DEHAVILAND DR~
+N4|CINCINNATI|OH|45231-1210|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069465~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069465~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|29.48~
+PAM|99|88.875|KH|||MO|MRR|20230201~
+PAM|99|91.667|KH|||MO|MRR|20230301~
+PAM|99|88.056|KH|||MO|MRR|20230401~
+PAM|99|96.59|KH|||MO|MRR|20230501~
+PAM|99|89.965|KH|||MO|MRR|20230601~
+PAM|99|86.715|KH|||MO|MRR|20230701~
+PAM|99|98.854|KH|||MO|MRR|20230801~
+PAM|99|87.082|KH|||MO|MRR|20230901~
+PAM|99|96.737|KH|||MO|MRR|20231001~
+PAM|99|94.566|KH|||MO|MRR|20231101~
+PAM|99|88.552|KH|||MO|MRR|20231201~
+PAM|99|98.147|KH|||MO|MRR|20240101~
+PAM|99|88.234|KH|||MO|MRR|20240201~
+PAM|99|1105.165|KH|||PM|MRR|20240202~
+PAM|99|92.097|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117295065Z109237610|Choice Service ID~
+REF|MG|332390357|INTERVAL BILLED~
+REF|AH|3118225504~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|88.234|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|88.234|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|22.748|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|65.486|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.132|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.128|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118225504~
+REF|MG|332390357|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|431|||.048863|KH|88.234|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|747||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|332390357|INTERVAL BILLED~
+REF|AH|3118225504~
+SLN|0001||A~
+SAC|C||EU|TPI001|321||||||||||ENERGY CHARGE (70.59kWh X .0454739)~
+SLN|0002||A~
+SAC|C||EU|TPI001|05||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|24||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|22||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|03||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|42||||||||||Balancing Energy~
+TDS|2948~
+SAC|C||EU|PRB001|2993||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-2993||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2531||||||||||Electric Delivery~
+SAC|N||EU|ENC000|417||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|2948||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0022~
+ST|810|0023~
+BIG|20240304|200952440150|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069320. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $6.08 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117296149~
+N1|BT|ALTAFIBER|91|910117296149~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117296149~
+N3|8257 KINGSMERE CT~
+N4|CINCINNATI|OH|45231-6005|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069320~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069320~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|34.51~
+PAM|99|58.318|KH|||MO|MRR|20230201~
+PAM|99|60.291|KH|||MO|MRR|20230301~
+PAM|99|57.601|KH|||MO|MRR|20230401~
+PAM|99|62.621|KH|||MO|MRR|20230501~
+PAM|99|58.146|KH|||MO|MRR|20230601~
+PAM|99|57.241|KH|||MO|MRR|20230701~
+PAM|99|76.518|KH|||MO|MRR|20230801~
+PAM|99|73.969|KH|||MO|MRR|20230901~
+PAM|99|89.056|KH|||MO|MRR|20231001~
+PAM|99|113.78|KH|||MO|MRR|20231101~
+PAM|99|130.461|KH|||MO|MRR|20231201~
+PAM|99|153.733|KH|||MO|MRR|20240101~
+PAM|99|130.252|KH|||MO|MRR|20240201~
+PAM|99|1063.669|KH|||PM|MRR|20240202~
+PAM|99|88.639|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117296149Z109951375|Choice Service ID~
+REF|MG|108139136|INTERVAL BILLED~
+REF|AH|3121748148~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|130.252|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|130.252|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|24.782|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|105.47|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.284|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.28|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121748148~
+REF|MG|108139136|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|636|||.048863|KH|130.252|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|854||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108139136|INTERVAL BILLED~
+REF|AH|3121748148~
+SLN|0001||A~
+SAC|C||EU|TPI001|473||||||||||ENERGY CHARGE (104.2kWh X .0453935)~
+SLN|0002||A~
+SAC|C||EU|TPI001|08||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|28||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|33||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|04||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|62||||||||||Balancing Energy~
+TDS|3451~
+SAC|C||EU|PRB001|3630||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-3630||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2843||||||||||Electric Delivery~
+SAC|N||EU|ENC000|608||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|3451||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0023~
+ST|810|0024~
+BIG|20240304|200952440151|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069305. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $47.35 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117297926~
+N1|BT|ALTAFIBER|91|910117297926~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL MS #9~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117297926~
+N3|10140 PIPPIN RD~
+N4|CINCINNATI|OH|45231-2032|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069305~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069305~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|140.02~
+PAM|99|1051.662|KH|||MO|MRR|20230201~
+PAM|99|1036.329|KH|||MO|MRR|20230301~
+PAM|99|1097.489|KH|||MO|MRR|20230401~
+PAM|99|1304.263|KH|||MO|MRR|20230501~
+PAM|99|1301.429|KH|||MO|MRR|20230601~
+PAM|99|1354.807|KH|||MO|MRR|20230701~
+PAM|99|1604.833|KH|||MO|MRR|20230801~
+PAM|99|1235.816|KH|||MO|MRR|20230901~
+PAM|99|1226.85|KH|||MO|MRR|20231001~
+PAM|99|1081.753|KH|||MO|MRR|20231101~
+PAM|99|978.392|KH|||MO|MRR|20231201~
+PAM|99|1205.281|KH|||MO|MRR|20240101~
+PAM|99|999.663|KH|||MO|MRR|20240201~
+PAM|99|14426.905|KH|||PM|MRR|20240202~
+PAM|99|1202.242|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117297926Z110324936|Choice Service ID~
+REF|MG|108111780|INTERVAL BILLED~
+REF|AH|3121748297~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|999.663|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|999.663|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|263.637|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|736.026|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|4.092|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|3.76|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121748297~
+REF|MG|108111780|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|4885|||.048863|KH|999.663|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|3029||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108111780|INTERVAL BILLED~
+REF|AH|3121748297~
+SLN|0001||A~
+SAC|C||EU|TPI001|3632||||||||||ENERGY CHARGE (799.73kWh X .0454153)~
+SLN|0002||A~
+SAC|C||EU|TPI001|62||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|283||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|254||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|33||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|471||||||||||Balancing Energy~
+TDS|14002~
+SAC|C||EU|PRB001|4338||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-4338||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|9267||||||||||Electric Delivery~
+SAC|N||EU|ENC000|4735||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|14002||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0024~
+ST|810|0025~
+BIG|20240304|200342448526|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069139. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $162.01 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117374279~
+N1|BT|ALTAFIBER|91|910117374279~
+N2|CINCINNATI BELL TELEPHONE CINCINNATI OH~
+N3|CBT BYPASS 4~
+N4|CINCINNATI|OH|45201|US~
+N1|MQ|ALTAFIBER|91|910117374279~
+N3|3298 PRINCETON RD~
+N4|HAMILTON|OH|45011-5333|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069139~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069139~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-9.29~
+PAM|99|3552.059|KH|||MO|MRR|20230201~
+PAM|99|3382.641|KH|||MO|MRR|20230301~
+PAM|99|2937.418|KH|||MO|MRR|20230401~
+PAM|99|2914.786|KH|||MO|MRR|20230501~
+PAM|99|2447.544|KH|||MO|MRR|20230601~
+PAM|99|2469.775|KH|||MO|MRR|20230701~
+PAM|99|3223.97|KH|||MO|MRR|20230801~
+PAM|99|2996.589|KH|||MO|MRR|20230901~
+PAM|99|3729.452|KH|||MO|MRR|20231001~
+PAM|99|3633.435|KH|||MO|MRR|20231101~
+PAM|99|3407.888|KH|||MO|MRR|20231201~
+PAM|99|3893.482|KH|||MO|MRR|20240101~
+PAM|99|3480.726|KH|||MO|MRR|20240201~
+PAM|99|38517.706|KH|||PM|MRR|20240202~
+PAM|99|3209.809|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117374279Z109712054|Choice Service ID~
+REF|MG|108089358|INTERVAL BILLED~
+REF|AH|3121746790~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|3480.726|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|3480.726|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|478.084|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|3002.642|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|9.38|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|9.38|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746790~
+REF|MG|108089358|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|2400||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|13682|||.048863|KH|2800|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|ENC001|295|||.004339|KH|680.726|||||Distribution-Energy Charge~
+SLN|0004||A~
+SAC|C||EU|DIS001|9015||||||||||Delivery Riders~
+SLN|0005||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108089358|INTERVAL BILLED~
+REF|AH|3121746790~
+SLN|0001||A~
+SAC|C||EU|TPI001|12648||||||||||ENERGY CHARGE (2784.58kWh X .0454216)~
+SLN|0002||A~
+SAC|C||EU|TPI001|216||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|656||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|883||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|117||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|1681||||||||||Balancing Energy~
+TDS|-929~
+SAC|C||EU|PRB001|42675||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-85350||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|25545||||||||||Electric Delivery~
+SAC|N||EU|ENC000|16201||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-929||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|118|0025~
+ST|810|0026~
+BIG|20240304|200342448527|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069096. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $11.55 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117374899~
+N1|BT|ALTAFIBER|91|910117374899~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117374899~
+N3|6576 STATE ROUTE 133~
+N4|PLEASANT PLAIN|OH|45162-9651|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069096~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069096~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-1.9~
+PAM|99|243.588|KH|||MO|MRR|20230201~
+PAM|99|252.344|KH|||MO|MRR|20230301~
+PAM|99|238.621|KH|||MO|MRR|20230401~
+PAM|99|267.752|KH|||MO|MRR|20230501~
+PAM|99|257.709|KH|||MO|MRR|20230601~
+PAM|99|278.403|KH|||MO|MRR|20230701~
+PAM|99|309.188|KH|||MO|MRR|20230801~
+PAM|99|258.552|KH|||MO|MRR|20230901~
+PAM|99|275.864|KH|||MO|MRR|20231001~
+PAM|99|268.796|KH|||MO|MRR|20231101~
+PAM|99|250.702|KH|||MO|MRR|20231201~
+PAM|99|276.09|KH|||MO|MRR|20240101~
+PAM|99|245.301|KH|||MO|MRR|20240201~
+PAM|99|3179.322|KH|||PM|MRR|20240202~
+PAM|99|264.944|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117374899Z110412210|Choice Service ID~
+REF|MG|336707157|INTERVAL BILLED~
+REF|AH|3121746051~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|245.301|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|245.301|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|63.389|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|181.912|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.372|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.368|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746051~
+REF|MG|336707157|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1199|||.048863|KH|245.301|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1139||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|336707157|INTERVAL BILLED~
+REF|AH|3121746051~
+SLN|0001||A~
+SAC|C||EU|TPI001|891||||||||||ENERGY CHARGE (196.24kWh X .0454036)~
+SLN|0002||A~
+SAC|C||EU|TPI001|15||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|63||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|62||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|08||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|116||||||||||Balancing Energy~
+TDS|-190~
+SAC|C||EU|PRB001|5036||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-10072||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|3691||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1155||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-190||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0026~
+ST|810|0027~
+BIG|20240304|200342448528|20240304|UTILITY|||PR|00~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069014. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $48.96 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117375791~
+N1|BT|ALTAFIBER|91|910117375791~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117375791~
+N3|10723 NEW HAVEN RD~
+N4|HARRISON|OH|45030-1645|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069014~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069014~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|88.03~
+PAM|99|1126.844|KH|||MO|MRR|20230201~
+PAM|99|1161.141|KH|||MO|MRR|20230301~
+PAM|99|1200.923|KH|||MO|MRR|20230401~
+PAM|99|1568.63|KH|||MO|MRR|20230501~
+PAM|99|1658.882|KH|||MO|MRR|20230601~
+PAM|99|1798.953|KH|||MO|MRR|20230701~
+PAM|99|1988.769|KH|||MO|MRR|20230801~
+PAM|99|1541.02|KH|||MO|MRR|20230901~
+PAM|99|1356.569|KH|||MO|MRR|20231001~
+PAM|99|1125.595|KH|||MO|MRR|20231101~
+PAM|99|1008.149|KH|||MO|MRR|20231201~
+PAM|99|1128.79|KH|||MO|MRR|20240101~
+PAM|99|1015.811|KH|||MO|MRR|20240201~
+PAM|99|16553.232|KH|||PM|MRR|20240202~
+PAM|99|1379.436|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117375791Z110242474|Choice Service ID~
+REF|MG|323756951|INTERVAL BILLED~
+REF|AH|3121729888~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|1015.811|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|1015.811|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|264.745|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|751.066|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|2.848|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|2.848|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121729888~
+REF|MG|323756951|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|4964|||.048863|KH|1015.811|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|3070||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|323756951|INTERVAL BILLED~
+REF|AH|3121729888~
+SLN|0001||A~
+SAC|C||EU|TPI001|3691||||||||||ENERGY CHARGE (812.65kWh X .0454193)~
+SLN|0002||A~
+SAC|C||EU|TPI001|63||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|369||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|258||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|34||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|481||||||||||Balancing Energy~
+TDS|8803~
+SAC|A||EU|PRB001|-5480||||||||||Previous Amount Due~
+SAC|C||EU|PAY001|00||||||||||Payment Received~
+SAC|N||EU|ENC000|9387||||||||||Electric Delivery~
+SAC|N||EU|ENC000|4896||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|8803||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|115|0027~
+ST|810|0028~
+BIG|20240304|200342448529|20240304|UTILITY|||FB|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069042. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $2.63 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117376320~
+N1|BT|ALTAFIBER|91|910117376320~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117376320~
+N3|DIR HUNT RD WS 1 FT N~
+N4|BLANCHESTER|OH|45107|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069042~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069042~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240226~
+BAL|M|PB|-13.19~
+PAM|99|123.732|KH|||MO|MRR|20230301~
+PAM|99|113.435|KH|||MO|MRR|20230401~
+PAM|99|125.057|KH|||MO|MRR|20230501~
+PAM|99|110.091|KH|||MO|MRR|20230601~
+PAM|99|114.394|KH|||MO|MRR|20230701~
+PAM|99|129.364|KH|||MO|MRR|20230801~
+PAM|99|117.625|KH|||MO|MRR|20230901~
+PAM|99|131.164|KH|||MO|MRR|20231001~
+PAM|99|137.249|KH|||MO|MRR|20231101~
+PAM|99|129.109|KH|||MO|MRR|20231201~
+PAM|99|173.836|KH|||MO|MRR|20240101~
+PAM|99|0|KH|||MO|MRR|20240201~
+PAM|99|54.509|KH|||MO|MRR|20240301~
+PAM|99|1335.833|KH|||PM|MRR|20240303~
+PAM|99|111.319|KH|||AM|MRR|20240303~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||27|DA~
+REF|BE|910117376320Z110745833|Choice Service ID~
+REF|MG|332822346|INTERVAL BILLED~
+REF|AH|3121745749~
+DTM|150|20240131~
+DTM|151|20240226~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|54.509|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|54.509|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|12.891|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|41.618|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.464|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.184|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121745749~
+REF|MG|332822346|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|266|||.048863|KH|54.509|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|662||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|332822346|INTERVAL BILLED~
+REF|AH|3121745749~
+SLN|0001||A~
+SAC|C||EU|TPI001|03||||||||||Contract Charges~
+SLN|0002||A~
+SAC|C||EU|TPI001|198||||||||||ENERGY CHARGE (43.61kWh X .0454024)~
+SLN|0003||A~
+SAC|C||EU|TPI001|20||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|14||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|02||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|26||||||||||Balancing Energy~
+TDS|-1319~
+SAC|C||EU|PRB001|3863||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-7726||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2281||||||||||Electric Delivery~
+SAC|N||EU|ENC000|263||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-1319||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0028~
+ST|810|0029~
+BIG|20240304|200892455094|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069076. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $10.52 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117054325~
+N1|BT|ALTAFIBER|91|910117054325~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117054325~
+N3|5500 LIBERTY SQUARE DR~
+N4|HAMILTON|OH|45011-7320|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069076~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069076~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-1.11~
+PAM|99|217.477|KH|||MO|MRR|20230201~
+PAM|99|224.447|KH|||MO|MRR|20230301~
+PAM|99|217.163|KH|||MO|MRR|20230401~
+PAM|99|240.646|KH|||MO|MRR|20230501~
+PAM|99|227.178|KH|||MO|MRR|20230601~
+PAM|99|221.714|KH|||MO|MRR|20230701~
+PAM|99|251.108|KH|||MO|MRR|20230801~
+PAM|99|217.77|KH|||MO|MRR|20230901~
+PAM|99|238.183|KH|||MO|MRR|20231001~
+PAM|99|230.746|KH|||MO|MRR|20231101~
+PAM|99|220.806|KH|||MO|MRR|20231201~
+PAM|99|245.086|KH|||MO|MRR|20240101~
+PAM|99|222.397|KH|||MO|MRR|20240201~
+PAM|99|2757.244|KH|||PM|MRR|20240202~
+PAM|99|229.77|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117054325Z110660010|Choice Service ID~
+REF|MG|108178760|INTERVAL BILLED~
+REF|AH|3121746003~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|222.397|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|222.397|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|57.593|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|164.804|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.332|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.328|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746003~
+REF|MG|108178760|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1087|||.048863|KH|222.397|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1082||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108178760|INTERVAL BILLED~
+REF|AH|3121746003~
+SLN|0001||A~
+SAC|C||EU|TPI001|808||||||||||ENERGY CHARGE (177.92kWh X .0454137)~
+SLN|0002||A~
+SAC|C||EU|TPI001|14||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|62||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|56||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|07||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|105||||||||||Balancing Energy~
+TDS|-111~
+SAC|C||EU|PRB001|4685||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-9370||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|3522||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1052||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-111||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0029~
+ST|810|0030~
+BIG|20240304|200892455095|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069070. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $27.01 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117055128~
+N1|BT|ALTAFIBER|91|910117055128~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117055128~
+N3|6590 WALDEN PONDS CIR~
+N4|HAMILTON|OH|45011-5071|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069070~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069070~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|27.94~
+PAM|99|580.893|KH|||MO|MRR|20230201~
+PAM|99|598.833|KH|||MO|MRR|20230301~
+PAM|99|607.535|KH|||MO|MRR|20230401~
+PAM|99|708.043|KH|||MO|MRR|20230501~
+PAM|99|700.132|KH|||MO|MRR|20230601~
+PAM|99|712.317|KH|||MO|MRR|20230701~
+PAM|99|803.909|KH|||MO|MRR|20230801~
+PAM|99|683.438|KH|||MO|MRR|20230901~
+PAM|99|692.443|KH|||MO|MRR|20231001~
+PAM|99|629.63|KH|||MO|MRR|20231101~
+PAM|99|577.731|KH|||MO|MRR|20231201~
+PAM|99|629.429|KH|||MO|MRR|20240101~
+PAM|99|571.467|KH|||MO|MRR|20240201~
+PAM|99|7914.907|KH|||PM|MRR|20240202~
+PAM|99|659.576|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117055128Z109064318|Choice Service ID~
+REF|MG|108098142|INTERVAL BILLED~
+REF|AH|3121746084~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|571.467|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|571.467|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|148.605|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|422.862|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.952|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.932|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746084~
+REF|MG|108098142|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|2792|||.048863|KH|571.467|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1958||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108098142|INTERVAL BILLED~
+REF|AH|3121746084~
+SLN|0001||A~
+SAC|C||EU|TPI001|2076||||||||||ENERGY CHARGE (457.17kWh X .0454098)~
+SLN|0002||A~
+SAC|C||EU|TPI001|35||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|155||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|145||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|19||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|271||||||||||Balancing Energy~
+TDS|2794~
+SAC|C||EU|PRB001|6010||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-12020||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6103||||||||||Electric Delivery~
+SAC|N||EU|ENC000|2701||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|2794||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0030~
+ST|810|0031~
+BIG|20240304|200892455096|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069939. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $4.80 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117057782~
+N1|BT|ALTAFIBER|91|910117057782~
+N2|PO BOX 2301~
+N3|CINICINNATI BELL~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117057782~
+N3|6577 WINFORD AVE~
+N4|HAMILTON|OH|45011-0548|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069939~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069939~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-.6~
+PAM|99|108.613|KH|||MO|MRR|20230201~
+PAM|99|116.357|KH|||MO|MRR|20230301~
+PAM|99|111.259|KH|||MO|MRR|20230401~
+PAM|99|121.045|KH|||MO|MRR|20230501~
+PAM|99|112.605|KH|||MO|MRR|20230601~
+PAM|99|108.896|KH|||MO|MRR|20230701~
+PAM|99|124.123|KH|||MO|MRR|20230801~
+PAM|99|107.507|KH|||MO|MRR|20230901~
+PAM|99|115.557|KH|||MO|MRR|20231001~
+PAM|99|110.774|KH|||MO|MRR|20231101~
+PAM|99|102.97|KH|||MO|MRR|20231201~
+PAM|99|113.507|KH|||MO|MRR|20240101~
+PAM|99|101.748|KH|||MO|MRR|20240201~
+PAM|99|1346.348|KH|||PM|MRR|20240202~
+PAM|99|112.196|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117057782Z109190023|Choice Service ID~
+REF|MG|108112002|INTERVAL BILLED~
+REF|AH|3118185620~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|101.748|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|101.748|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|26.195|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|75.553|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.152|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.152|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118185620~
+REF|MG|108112002|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|497|||.048863|KH|101.748|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|779||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108112002|INTERVAL BILLED~
+REF|AH|3118185620~
+SLN|0001||A~
+SAC|C||EU|TPI001|370||||||||||ENERGY CHARGE (81.4kWh X .0454545)~
+SLN|0002||A~
+SAC|C||EU|TPI001|06||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|27||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|26||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|03||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|48||||||||||Balancing Energy~
+TDS|-60~
+SAC|C||EU|PRB001|3169||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-6338||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|2629||||||||||Electric Delivery~
+SAC|N||EU|ENC000|480||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-60||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0031~
+ST|810|0032~
+BIG|20240304|200232443094|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069345. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $43.12 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117141571~
+N1|BT|ALTAFIBER|91|910117141571~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117141571~
+N3|11241 CAROLINA TRACE RD~
+N4|HARRISON|OH|45030-9311|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069345~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069345~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-7.45~
+PAM|99|937.288|KH|||MO|MRR|20230201~
+PAM|99|962.008|KH|||MO|MRR|20230301~
+PAM|99|894.476|KH|||MO|MRR|20230401~
+PAM|99|999.679|KH|||MO|MRR|20230501~
+PAM|99|947.957|KH|||MO|MRR|20230601~
+PAM|99|942.678|KH|||MO|MRR|20230701~
+PAM|99|1069.105|KH|||MO|MRR|20230801~
+PAM|99|913.416|KH|||MO|MRR|20230901~
+PAM|99|980.355|KH|||MO|MRR|20231001~
+PAM|99|993.276|KH|||MO|MRR|20231101~
+PAM|99|951.093|KH|||MO|MRR|20231201~
+PAM|99|1070.059|KH|||MO|MRR|20240101~
+PAM|99|912.505|KH|||MO|MRR|20240201~
+PAM|99|11636.607|KH|||PM|MRR|20240202~
+PAM|99|969.717|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117141571Z109472065|Choice Service ID~
+REF|MG|108277038|INTERVAL BILLED~
+REF|AH|3121746335~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|912.505|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|912.505|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|229.977|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|682.528|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.472|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|1.456|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3121746335~
+REF|MG|108277038|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|4459|||.048863|KH|912.505|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|2813||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108277038|INTERVAL BILLED~
+REF|AH|3121746335~
+SLN|0001||A~
+SAC|C||EU|TPI001|3316||||||||||ENERGY CHARGE (730kWh X .0454247)~
+SLN|0002||A~
+SAC|C||EU|TPI001|57||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|243||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|232||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|30||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|434||||||||||Balancing Energy~
+TDS|-745~
+SAC|C||EU|PRB001|13682||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-27364||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|8625||||||||||Electric Delivery~
+SAC|N||EU|ENC000|4312||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-745||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0032~
+ST|810|0033~
+BIG|20240304|200232443117|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069527. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $44.08 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117175498~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117175498~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117175498~
+N3|3425 DURY AVE~
+N4|CINCINNATI|OH|45229-2800|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069527~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069527~
+PER|IC||TE|844.636.3749~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|6.92~
+PAM|99|950.825|KH|||MO|MRR|20230201~
+PAM|99|979.401|KH|||MO|MRR|20230301~
+PAM|99|965.245|KH|||MO|MRR|20230401~
+PAM|99|1060.195|KH|||MO|MRR|20230501~
+PAM|99|1000.673|KH|||MO|MRR|20230601~
+PAM|99|976.174|KH|||MO|MRR|20230701~
+PAM|99|1103.673|KH|||MO|MRR|20230801~
+PAM|99|961.623|KH|||MO|MRR|20230901~
+PAM|99|1050.063|KH|||MO|MRR|20231001~
+PAM|99|1007.739|KH|||MO|MRR|20231101~
+PAM|99|943.224|KH|||MO|MRR|20231201~
+PAM|99|1019.543|KH|||MO|MRR|20240101~
+PAM|99|941.156|KH|||MO|MRR|20240201~
+PAM|99|12008.709|KH|||PM|MRR|20240202~
+PAM|99|1000.726|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117175498Z109026525|Choice Service ID~
+REF|MG|328141892|INTERVAL BILLED~
+REF|AH|3118184243~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|941.156|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|941.156|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|246.713|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|694.443|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|1.5|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|1.5|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118184243~
+REF|MG|328141892|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|4599|||.048863|KH|941.156|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|2883||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|328141892|INTERVAL BILLED~
+REF|AH|3118184243~
+SLN|0001||A~
+SAC|C||EU|TPI001|3420||||||||||ENERGY CHARGE (752.92kWh X .0454232)~
+SLN|0002||A~
+SAC|C||EU|TPI001|58||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|214||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|239||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|31||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|446||||||||||Balancing Energy~
+TDS|692~
+SAC|C||EU|PRB001|12551||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-25102||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|8835||||||||||Electric Delivery~
+SAC|N||EU|ENC000|4408||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|692||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|116|0033~
+ST|810|0034~
+BIG|20240304|200232443118|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|Your current rate is Secondary Distribution Service - Small (DM).~
+NTE|ADD|For a complete listing of all Ohio rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+NTE|ADD|Your Constellation NewEnergyCI account number is 15069475. If you have any quest~
+NTE|ADD|ions about~
+NTE|ADD|your electric supplier's service or charges, contact Constellation NewEnergyCI a~
+NTE|ADD|t 844.636.3749 or~
+NTE|ADD|write to them at 1001 LOUISANA ST STE 2300, HOUSTON TX 77002.~
+NTE|ADD|Energy generation charges were calculated by your electric supplier.~
+NTE|ADD|To obtain a comparison of available competitive electric supplier~
+NTE|ADD|offers, visit the Ohio Electric Choice website at energychoice.ohio.gov.~
+NTE|ADD|Riders are costs the Public Utilities Commission of Ohio has approved to~
+NTE|ADD|cover investments in improving the energy infrastructure or other~
+NTE|ADD|additional expenses.~
+NTE|ADD|Your Electric Supplier Charges of $16.44 were calculated by your~
+NTE|ADD|Electric Supplier.~
+CUR|85|USD~
+REF|12|910117175836~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117175836~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117175836~
+N3|620 CLINTON SPRINGS AVE~
+N4|CINCINNATI|OH|45229-1325|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+N1|SJ|Constellation NewEnergyCI|91|15069475~
+N3|CONSTELLATION NEWENERGYCI~
+N4|HOUSTON|TX|77002|US~
+REF|11|15069475~
+PER|IC||TE|844.636.3749~
+ITD||||||20240304~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|-.7~
+PAM|99|341.632|KH|||MO|MRR|20230201~
+PAM|99|359.07|KH|||MO|MRR|20230301~
+PAM|99|352.151|KH|||MO|MRR|20230401~
+PAM|99|393.917|KH|||MO|MRR|20230501~
+PAM|99|366.432|KH|||MO|MRR|20230601~
+PAM|99|362.703|KH|||MO|MRR|20230701~
+PAM|99|425.96|KH|||MO|MRR|20230801~
+PAM|99|374.268|KH|||MO|MRR|20230901~
+PAM|99|411.355|KH|||MO|MRR|20231001~
+PAM|99|405.024|KH|||MO|MRR|20231101~
+PAM|99|350.328|KH|||MO|MRR|20231201~
+PAM|99|376.637|KH|||MO|MRR|20240101~
+PAM|99|353.024|KH|||MO|MRR|20240201~
+PAM|99|4530.869|KH|||PM|MRR|20240202~
+PAM|99|377.572|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|BE|910117175836Z109285836|Choice Service ID~
+REF|MG|108212878|INTERVAL BILLED~
+REF|AH|3118183651~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|353.024|||||Measured kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|353.024|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|ENC001|||||KH|97.435|||||Billed On Peak kWh~
+SLN|0004||A~
+SAC|N||EU|ENC001|||||KH|255.589|||||Billed Off Peak kWh~
+SLN|0005||A~
+SAC|N||EU|DMD000|||||K1|.816|||||Demand-kW~
+SLN|0006||A~
+SAC|N||EU|DMD000|||||K1|.816|||||Billed Demand-kW On Peak~
+IT1|0002|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CT|Secondary Distribution Service - Small (DM)~
+REF|AH|3118183651~
+REF|MG|108212878|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1200||||||||||Distribution-Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|1725|||.048863|KH|353.024|||||Distribution-Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DIS001|1410||||||||||Delivery Riders~
+SLN|0004||A~
+SAC|C||EU|GEN001|153||||||||||Generation Riders~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+PID|F||||Constellation NewEnergyCI~
+REF|MG|108212878|INTERVAL BILLED~
+REF|AH|3118183651~
+SLN|0001||A~
+SAC|C||EU|TPI001|1283||||||||||ENERGY CHARGE (282.42kWh X .0454288)~
+SLN|0002||A~
+SAC|C||EU|TPI001|22||||||||||Contract Charges~
+SLN|0003||A~
+SAC|C||EU|TPI001|70||||||||||Market Charges~
+SLN|0004||A~
+SAC|C||EU|TPI001|90||||||||||Transaction Line Losses~
+SLN|0005||A~
+SAC|C||EU|TPI001|12||||||||||Transaction Line Losses~
+SLN|0006||A~
+SAC|C||EU|TPI001|167||||||||||Balancing Energy~
+TDS|-70~
+SAC|C||EU|PRB001|6202||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-12404||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|4488||||||||||Electric Delivery~
+SAC|N||EU|ENC000|1644||||||||||Electric Generation Supply~
+SAC|N||EU|MSC000|-70||||||||||Credit Amount, Do Not Pay~
+CTT|3~
+SE|116|0034~
+ST|810|0035~
+BIG|20240304|210003009514|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|We can help your business save energy and money. Get deals on~
+NTE|ADD|energy-efficient items at our Business Savings Store. Plus, enjoy FREE~
+NTE|ADD|SHIPPING on orders more than $49. Shop now at duke-energy.com/ShopBig.~
+NTE|ADD|Your current rate is Service at Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Kentucky rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+CUR|85|USD~
+REF|12|910117228064~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117228064~
+N2|MISC} A PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117228064~
+N3|110 ELM ST~
+N4|LUDLOW|KY|41016-1520|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|74.87~
+PAM|99|152.256|KH|||MO|MRR|20230201~
+PAM|99|150.016|KH|||MO|MRR|20230301~
+PAM|99|142.678|KH|||MO|MRR|20230401~
+PAM|99|312.852|KH|||MO|MRR|20230501~
+PAM|99|326.56|KH|||MO|MRR|20230601~
+PAM|99|323.647|KH|||MO|MRR|20230701~
+PAM|99|387.753|KH|||MO|MRR|20230801~
+PAM|99|351.86|KH|||MO|MRR|20230901~
+PAM|99|364.576|KH|||MO|MRR|20231001~
+PAM|99|346.725|KH|||MO|MRR|20231101~
+PAM|99|320.443|KH|||MO|MRR|20231201~
+PAM|99|371.308|KH|||MO|MRR|20240101~
+PAM|99|361.203|KH|||MO|MRR|20240201~
+PAM|99|3759.621|KH|||PM|MRR|20240202~
+PAM|99|313.302|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|4.24|||||A|||Kentucky Sales Tax~
+TXI|FR|2|||||A|||Franchise Fee~
+TXI|SC|2.05|||||A|||Rate Inc School Tax~
+IT1|0002|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|MG|108153149|INTERVAL BILLED~
+REF|AH|3118188762~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|361.203|||||Actual kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|361.203|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|DMD000|||||K1|.864|||||Actual Demand-kW~
+SLN|0004||A~
+SAC|N||EU|DMD000|||||K1|1|||||Billed Demand kW~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CM|Service at Distribution Voltage (DS)~
+REF|AH|3118188762~
+REF|MG|108153149|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1500||||||||||Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|3655|||.101188|KH|361.203|||||Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DMD001|00|||0|K1|1|||||Demand Charge~
+SLN|0004||A~
+SAC|C||EU|MSC001|127|||.003503|KH|361.203|||||Demand Side Management Cost Recovery Program Rider (DSM)~
+SLN|0005||A~
+SAC|C||EU|MSC000|134|||.0037|KH|361.203|||||Off-System Sales Profit Sharing Mechanism Rider (PSM)~
+SLN|0006||A~
+SAC|C||EU|FUE001|198|||.005495|KH|361.203|||||Electric Fuel Adjustment~
+SLN|0007||A~
+SAC|C||EU|MSC000|1044||||||||||Environmental Surcharge Mechanism Rider (ESM)~
+TDS|7487~
+TXI|ZZ|8.29|||||O|||Taxes~
+SAC|C||EU|PRB001|7802||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-7802||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6658||||||||||Current Electric Charges~
+SAC|N||EU|MSC000|7487||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|90|0035~
+ST|810|0036~
+BIG|20240304|210003009198|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|We can help your business save energy and money. Get deals on~
+NTE|ADD|energy-efficient items at our Business Savings Store. Plus, enjoy FREE~
+NTE|ADD|SHIPPING on orders more than $49. Shop now at duke-energy.com/ShopBig.~
+NTE|ADD|Your current rate is Service at Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Kentucky rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+CUR|85|USD~
+REF|12|910117177565~
+N1|BT|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117177565~
+N2|PO BOX 2301~
+N3|CINCINNATI BELL TELEPHONE~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|CINCINNATI BELL TELEPHONE LLC DBA ALTAFIBER|91|910117177565~
+N3|908 SUNGLOW ST~
+N4|FORT MITCHELL|KY|41017-1132|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|72.22~
+PAM|99|225.459|KH|||MO|MRR|20230201~
+PAM|99|239.276|KH|||MO|MRR|20230301~
+PAM|99|230.102|KH|||MO|MRR|20230401~
+PAM|99|328.979|KH|||MO|MRR|20230501~
+PAM|99|355.199|KH|||MO|MRR|20230601~
+PAM|99|348.088|KH|||MO|MRR|20230701~
+PAM|99|396.296|KH|||MO|MRR|20230801~
+PAM|99|346.607|KH|||MO|MRR|20230901~
+PAM|99|384.829|KH|||MO|MRR|20231001~
+PAM|99|383.513|KH|||MO|MRR|20231101~
+PAM|99|338.443|KH|||MO|MRR|20231201~
+PAM|99|385.04|KH|||MO|MRR|20240101~
+PAM|99|343.626|KH|||MO|MRR|20240201~
+PAM|99|4079.998|KH|||PM|MRR|20240202~
+PAM|99|340|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|4.09|||||A|||Kentucky Sales Tax~
+TXI|FR|1.93|||||A|||Franchise Fee~
+TXI|SC|1.98|||||A|||Rate Inc School Tax~
+IT1|0002|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|MG|320312836|INTERVAL BILLED~
+REF|AH|3118780538~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|343.626|||||Actual kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|343.626|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|DMD000|||||K1|.892|||||Actual Demand-kW~
+SLN|0004||A~
+SAC|N||EU|DMD000|||||K1|1|||||Billed Demand kW~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CM|Service at Distribution Voltage (DS)~
+REF|AH|3118780538~
+REF|MG|320312836|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1500||||||||||Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|3477|||.101188|KH|343.626|||||Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DMD001|00|||0|K1|1|||||Demand Charge~
+SLN|0004||A~
+SAC|C||EU|MSC001|120|||.003503|KH|343.626|||||Demand Side Management Cost Recovery Program Rider (DSM)~
+SLN|0005||A~
+SAC|C||EU|MSC000|127|||.0037|KH|343.626|||||Off-System Sales Profit Sharing Mechanism Rider (PSM)~
+SLN|0006||A~
+SAC|C||EU|FUE001|189|||.005495|KH|343.626|||||Electric Fuel Adjustment~
+SLN|0007||A~
+SAC|C||EU|MSC000|1009||||||||||Environmental Surcharge Mechanism Rider (ESM)~
+TDS|7222~
+TXI|ZZ|8|||||O|||Taxes~
+SAC|C||EU|PRB001|8016||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-8016||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6422||||||||||Current Electric Charges~
+SAC|N||EU|MSC000|7222||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|90|0036~
+ST|810|0037~
+BIG|20240304|210003009199|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|We can help your business save energy and money. Get deals on~
+NTE|ADD|energy-efficient items at our Business Savings Store. Plus, enjoy FREE~
+NTE|ADD|SHIPPING on orders more than $49. Shop now at duke-energy.com/ShopBig.~
+NTE|ADD|Your current rate is Service at Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Kentucky rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+CUR|85|USD~
+REF|12|910117182926~
+N1|BT|ALTAFIBER|91|910117182926~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117182926~
+N3|DIR ST RT 491 SS 8 FT W~
+N4|CRITTENDEN|KY|41030|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|151.9~
+PAM|99|896.928|KH|||MO|MRR|20230201~
+PAM|99|940.526|KH|||MO|MRR|20230301~
+PAM|99|878.663|KH|||MO|MRR|20230401~
+PAM|99|966.831|KH|||MO|MRR|20230501~
+PAM|99|914.295|KH|||MO|MRR|20230601~
+PAM|99|900.84|KH|||MO|MRR|20230701~
+PAM|99|1029.386|KH|||MO|MRR|20230801~
+PAM|99|888.769|KH|||MO|MRR|20230901~
+PAM|99|971.72|KH|||MO|MRR|20231001~
+PAM|99|963.727|KH|||MO|MRR|20231101~
+PAM|99|916.756|KH|||MO|MRR|20231201~
+PAM|99|1060.888|KH|||MO|MRR|20240101~
+PAM|99|875.813|KH|||MO|MRR|20240201~
+PAM|99|11308.214|KH|||PM|MRR|20240202~
+PAM|99|942.351|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|8.6|||||A|||Kentucky Sales Tax~
+TXI|FR|4.05|||||A|||Franchise Fee~
+TXI|SC|4.17|||||A|||Rate Inc School Tax~
+IT1|0002|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|MG|320357922|INTERVAL BILLED~
+REF|AH|3121747606~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|875.813|||||Actual kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|875.813|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|DMD000|||||K1|1.716|||||Actual Demand-kW~
+SLN|0004||A~
+SAC|N||EU|DMD000|||||K1|1.716|||||Billed Demand kW~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CM|Service at Distribution Voltage (DS)~
+REF|AH|3121747606~
+REF|MG|320357922|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1500||||||||||Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|8862|||.101188|KH|875.813|||||Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DMD001|00|||0|K1|1.716|||||Demand Charge~
+SLN|0004||A~
+SAC|C||EU|MSC001|307|||.003503|KH|875.813|||||Demand Side Management Cost Recovery Program Rider (DSM)~
+SLN|0005||A~
+SAC|C||EU|MSC000|324|||.0037|KH|875.813|||||Off-System Sales Profit Sharing Mechanism Rider (PSM)~
+SLN|0006||A~
+SAC|C||EU|FUE001|481|||.005495|KH|875.813|||||Electric Fuel Adjustment~
+SLN|0007||A~
+SAC|C||EU|MSC000|2034||||||||||Environmental Surcharge Mechanism Rider (ESM)~
+TDS|15190~
+TXI|ZZ|16.82|||||O|||Taxes~
+SAC|C||EU|PRB001|18565||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-18565||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|13508||||||||||Current Electric Charges~
+SAC|N||EU|MSC000|15190||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|90|0037~
+ST|810|0038~
+BIG|20240304|210003009200|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|We can help your business save energy and money. Get deals on~
+NTE|ADD|energy-efficient items at our Business Savings Store. Plus, enjoy FREE~
+NTE|ADD|SHIPPING on orders more than $49. Shop now at duke-energy.com/ShopBig.~
+NTE|ADD|Your current rate is Service at Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Kentucky rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+CUR|85|USD~
+REF|12|910117183927~
+N1|BT|ALTAFIBER|91|910117183927~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117183927~
+N3|46 MOOCK RD~
+N4|NEWPORT|KY|41071-2938|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|183.79~
+PAM|99|1177.961|KH|||MO|MRR|20230201~
+PAM|99|1160.22|KH|||MO|MRR|20230301~
+PAM|99|1144.764|KH|||MO|MRR|20230401~
+PAM|99|1271.846|KH|||MO|MRR|20230501~
+PAM|99|1200.76|KH|||MO|MRR|20230601~
+PAM|99|1165.012|KH|||MO|MRR|20230701~
+PAM|99|1318.489|KH|||MO|MRR|20230801~
+PAM|99|1144.305|KH|||MO|MRR|20230901~
+PAM|99|1246.512|KH|||MO|MRR|20231001~
+PAM|99|1195.917|KH|||MO|MRR|20231101~
+PAM|99|1094.262|KH|||MO|MRR|20231201~
+PAM|99|1175.282|KH|||MO|MRR|20240101~
+PAM|99|1088.718|KH|||MO|MRR|20240201~
+PAM|99|14206.087|KH|||PM|MRR|20240202~
+PAM|99|1183.841|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|10.4|||||A|||Kentucky Sales Tax~
+TXI|FR|4.91|||||A|||Franchise Fee~
+TXI|SC|5.05|||||A|||Rate Inc School Tax~
+IT1|0002|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|MG|320364587|INTERVAL BILLED~
+REF|AH|3121747678~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|1088.718|||||Actual kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|1088.718|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|DMD000|||||K1|1.64|||||Actual Demand-kW~
+SLN|0004||A~
+SAC|N||EU|DMD000|||||K1|1.64|||||Billed Demand kW~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CM|Service at Distribution Voltage (DS)~
+REF|AH|3121747678~
+REF|MG|320364587|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1500||||||||||Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|11017|||.101188|KH|1088.718|||||Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DMD001|00|||0|K1|1.64|||||Demand Charge~
+SLN|0004||A~
+SAC|C||EU|MSC001|381|||.003503|KH|1088.718|||||Demand Side Management Cost Recovery Program Rider (DSM)~
+SLN|0005||A~
+SAC|C||EU|MSC000|403|||.0037|KH|1088.718|||||Off-System Sales Profit Sharing Mechanism Rider (PSM)~
+SLN|0006||A~
+SAC|C||EU|FUE001|598|||.005495|KH|1088.718|||||Electric Fuel Adjustment~
+SLN|0007||A~
+SAC|C||EU|MSC000|2444||||||||||Environmental Surcharge Mechanism Rider (ESM)~
+TDS|18379~
+TXI|ZZ|20.36|||||O|||Taxes~
+SAC|C||EU|PRB001|20349||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-20349||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|16343||||||||||Current Electric Charges~
+SAC|N||EU|MSC000|18379||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|90|0038~
+ST|810|0039~
+BIG|20240304|210003009201|20240304|UTILITY|||PR|00~
+NTE|ADD|Thank you for your payment.~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|We can help your business save energy and money. Get deals on~
+NTE|ADD|energy-efficient items at our Business Savings Store. Plus, enjoy FREE~
+NTE|ADD|SHIPPING on orders more than $49. Shop now at duke-energy.com/ShopBig.~
+NTE|ADD|Your current rate is Service at Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Kentucky rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+CUR|85|USD~
+REF|12|910117183969~
+N1|BT|ALTAFIBER|91|910117183969~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117183969~
+N3|240 MOOCK RD~
+N4|NEWPORT|KY|41071-2925|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|76.94~
+PAM|99|410.828|KH|||MO|MRR|20230201~
+PAM|99|416.966|KH|||MO|MRR|20230301~
+PAM|99|396.634|KH|||MO|MRR|20230401~
+PAM|99|447.83|KH|||MO|MRR|20230501~
+PAM|99|454.762|KH|||MO|MRR|20230601~
+PAM|99|455.933|KH|||MO|MRR|20230701~
+PAM|99|516.298|KH|||MO|MRR|20230801~
+PAM|99|414.666|KH|||MO|MRR|20230901~
+PAM|99|416.714|KH|||MO|MRR|20231001~
+PAM|99|404.046|KH|||MO|MRR|20231101~
+PAM|99|377.358|KH|||MO|MRR|20231201~
+PAM|99|428.634|KH|||MO|MRR|20240101~
+PAM|99|375.117|KH|||MO|MRR|20240201~
+PAM|99|5104.958|KH|||PM|MRR|20240202~
+PAM|99|425.413|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|4.36|||||A|||Kentucky Sales Tax~
+TXI|FR|2.05|||||A|||Franchise Fee~
+TXI|SC|2.11|||||A|||Rate Inc School Tax~
+IT1|0002|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|MG|320352985|INTERVAL BILLED~
+REF|AH|3121729745~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|375.117|||||Actual kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|375.117|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|DMD000|||||K1|.688|||||Actual Demand-kW~
+SLN|0004||A~
+SAC|N||EU|DMD000|||||K1|1|||||Billed Demand kW~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CM|Service at Distribution Voltage (DS)~
+REF|AH|3121729745~
+REF|MG|320352985|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1500||||||||||Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|3796|||.101188|KH|375.117|||||Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DMD001|00|||0|K1|1|||||Demand Charge~
+SLN|0004||A~
+SAC|C||EU|MSC001|131|||.003503|KH|375.117|||||Demand Side Management Cost Recovery Program Rider (DSM)~
+SLN|0005||A~
+SAC|C||EU|MSC000|139|||.0037|KH|375.117|||||Off-System Sales Profit Sharing Mechanism Rider (PSM)~
+SLN|0006||A~
+SAC|C||EU|FUE001|206|||.005495|KH|375.117|||||Electric Fuel Adjustment~
+SLN|0007||A~
+SAC|C||EU|MSC000|1070||||||||||Environmental Surcharge Mechanism Rider (ESM)~
+TDS|7694~
+TXI|ZZ|8.52|||||O|||Taxes~
+SAC|C||EU|PRB001|8332||||||||||Previous Amount Due~
+SAC|A||EU|PAY001|-8332||||||||||Payment Received Feb 08~
+SAC|N||EU|ENC000|6842||||||||||Current Electric Charges~
+SAC|N||EU|MSC000|7694||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|90|0039~
+ST|810|0040~
+BIG|20240304|210003009759|20240304|UTILITY|||PR|00~
+NTE|ADD|Important power line safety reminder. Stay away from power lines. Do not~
+NTE|ADD|work near overhead lines. Always assume that downed lines are energized~
+NTE|ADD|and dangerous. Report downed power lines to Duke Energy immediately by~
+NTE|ADD|calling 1-800-543-5599.~
+NTE|ADD|We can help your business save energy and money. Get deals on~
+NTE|ADD|energy-efficient items at our Business Savings Store. Plus, enjoy FREE~
+NTE|ADD|SHIPPING on orders more than $49. Shop now at duke-energy.com/ShopBig.~
+NTE|ADD|Your current rate is Service at Distribution Voltage (DS).~
+NTE|ADD|For a complete listing of all Kentucky rates and riders, visit~
+NTE|ADD|duke-energy.com/rates~
+CUR|85|USD~
+REF|12|910117374568~
+N1|BT|ALTAFIBER|91|910117374568~
+N2|PO BOX 2301~
+N3|CINTI BELL TEL CO~
+N4|CINCINNATI|OH|45201-2301|US~
+N1|MQ|ALTAFIBER|91|910117374568~
+N3|64 MAIN S~
+N4|DRY RIDGE|KY|41035-7235|US~
+N1|RE|Duke Energy~
+N2|Remittance Processing~
+N3|PO BOX 1094~
+N4|CHARLOTTE|NC|28201-1094|US~
+PER|EA|EDI TEAM|EM|EDIBILLING@DUKE-ENERGY.COM~
+ITD||||||20240325~
+DTM|186|20240131~
+DTM|187|20240228~
+BAL|M|PB|263.81~
+PAM|99|1870.549|KH|||MO|MRR|20230201~
+PAM|99|1931.049|KH|||MO|MRR|20230301~
+PAM|99|1978.526|KH|||MO|MRR|20230401~
+PAM|99|2315.87|KH|||MO|MRR|20230501~
+PAM|99|2279.108|KH|||MO|MRR|20230601~
+PAM|99|2306.479|KH|||MO|MRR|20230701~
+PAM|99|2630.458|KH|||MO|MRR|20230801~
+PAM|99|2198.255|KH|||MO|MRR|20230901~
+PAM|99|2233.448|KH|||MO|MRR|20231001~
+PAM|99|2005.391|KH|||MO|MRR|20231101~
+PAM|99|1783.554|KH|||MO|MRR|20231201~
+PAM|99|1897.988|KH|||MO|MRR|20240101~
+PAM|99|1782.857|KH|||MO|MRR|20240201~
+PAM|99|25342.983|KH|||PM|MRR|20240202~
+PAM|99|2111.915|KH|||AM|MRR|20240202~
+IT1|0001|||||SV|MULTIPLE|C3|ACCOUNT|BS|CURRENT CHARGES~
+TXI|ST|15.81|||||A|||Kentucky Sales Tax~
+TXI|SC|7.68|||||A|||Rate Inc School Tax~
+IT1|0002|||||SV|ELECTRIC|C3|METER|BS|CURRENT CHARGES~
+MEA|TI||29|DA~
+REF|MG|320316312|INTERVAL BILLED~
+REF|AH|3121747605~
+DTM|150|20240131~
+DTM|151|20240228~
+SLN|0001||A~
+SAC|N||EU|ENC001|||||KH|1782.857|||||Actual kWh~
+SLN|0002||A~
+SAC|N||EU|ENC001|||||KH|1782.857|||||Billed kWh~
+SLN|0003||A~
+SAC|N||EU|DMD000|||||K1|3.42|||||Actual Demand-kW~
+SLN|0004||A~
+SAC|N||EU|DMD000|||||K1|3.754|||||Billed Demand kW~
+IT1|0003|||||SV|ELECTRIC|C3|BILLDET|BS|CURRENT CHARGES~
+REF|NH|CM|Service at Distribution Voltage (DS)~
+REF|AH|3121747605~
+REF|MG|320316312|INTERVAL BILLED~
+SLN|0001||A~
+SAC|C||EU|BAS001|1500||||||||||Customer Charge~
+SLN|0002||A~
+SAC|C||EU|ENC001|18040|||.101188|KH|1782.857|||||Energy Charge~
+SLN|0003||A~
+SAC|C||EU|DMD001|00|||0|K1|3.7536|||||Demand Charge~
+SLN|0004||A~
+SAC|C||EU|MSC001|625|||.003503|KH|1782.857|||||Demand Side Management Cost Recovery Program Rider (DSM)~
+SLN|0005||A~
+SAC|C||EU|MSC000|660|||.0037|KH|1782.857|||||Off-System Sales Profit Sharing Mechanism Rider (PSM)~
+SLN|0006||A~
+SAC|C||EU|FUE001|980|||.005495|KH|1782.857|||||Electric Fuel Adjustment~
+SLN|0007||A~
+SAC|C||EU|MSC000|3781||||||||||Environmental Surcharge Mechanism Rider (ESM)~
+TDS|26381~
+TXI|ZZ|23.49|||||O|||Taxes~
+SAC|A||EU|PRB001|-1554||||||||||Previous Amount Due~
+SAC|C||EU|PAY001|00||||||||||Payment Received~
+SAC|N||EU|ENC000|25586||||||||||Current Electric Charges~
+SAC|N||EU|MSC000|26381||||||||||Total Amount Due Mar 25~
+CTT|3~
+SE|88|0040~
+GE|40|492~
+IEA|1|000000492~
